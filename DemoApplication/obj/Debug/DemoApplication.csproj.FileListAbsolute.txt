@@ -1,0 +1,8 @@
+C:\Users\nandi\OneDrive\WiproTraining\DemoApplication\DemoApplication\bin\Debug\DemoApplication.exe.config
+C:\Users\nandi\OneDrive\WiproTraining\DemoApplication\DemoApplication\bin\Debug\DemoApplication.exe
+C:\Users\nandi\OneDrive\WiproTraining\DemoApplication\DemoApplication\bin\Debug\DemoApplication.pdb
+C:\Users\nandi\OneDrive\WiproTraining\DemoApplication\DemoApplication\obj\Debug\DemoApplication.csproj.AssemblyReference.cache
+C:\Users\nandi\OneDrive\WiproTraining\DemoApplication\DemoApplication\obj\Debug\DemoApplication.csproj.CoreCompileInputs.cache
+C:\Users\nandi\OneDrive\WiproTraining\DemoApplication\DemoApplication\obj\Debug\DemoApplication.exe
+C:\Users\nandi\OneDrive\WiproTraining\DemoApplication\DemoApplication\obj\Debug\DemoApplication.pdb
+C:\Users\nandi\OneDrive\WiproTraining\DemoApplication\DemoApplication\obj\Debug\DemoApplication.exe.config

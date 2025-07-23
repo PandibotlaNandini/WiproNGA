@@ -1,0 +1,8 @@
+C:\Users\nandi\OneDrive\WiproTraining\Day3\InhExamples\InhExamples\bin\Debug\InhExamples.exe.config
+C:\Users\nandi\OneDrive\WiproTraining\Day3\InhExamples\InhExamples\bin\Debug\InhExamples.exe
+C:\Users\nandi\OneDrive\WiproTraining\Day3\InhExamples\InhExamples\bin\Debug\InhExamples.pdb
+C:\Users\nandi\OneDrive\WiproTraining\Day3\InhExamples\InhExamples\obj\Debug\InhExamples.csproj.AssemblyReference.cache
+C:\Users\nandi\OneDrive\WiproTraining\Day3\InhExamples\InhExamples\obj\Debug\InhExamples.csproj.CoreCompileInputs.cache
+C:\Users\nandi\OneDrive\WiproTraining\Day3\InhExamples\InhExamples\obj\Debug\InhExamples.exe
+C:\Users\nandi\OneDrive\WiproTraining\Day3\InhExamples\InhExamples\obj\Debug\InhExamples.pdb
+C:\Users\nandi\OneDrive\WiproTraining\Day3\InhExamples\InhExamples\obj\Debug\InhExamples.exe.config

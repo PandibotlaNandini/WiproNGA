@@ -1,0 +1,11 @@
+C:\Users\nandi\OneDrive\WiproTraining\Day3\CalculationClient\bin\Debug\CalculationClient.exe.config
+C:\Users\nandi\OneDrive\WiproTraining\Day3\CalculationClient\bin\Debug\CalculationClient.exe
+C:\Users\nandi\OneDrive\WiproTraining\Day3\CalculationClient\bin\Debug\CalculationClient.pdb
+C:\Users\nandi\OneDrive\WiproTraining\Day3\CalculationClient\bin\Debug\CalculationLibrary.dll
+C:\Users\nandi\OneDrive\WiproTraining\Day3\CalculationClient\bin\Debug\CalculationLibrary.pdb
+C:\Users\nandi\OneDrive\WiproTraining\Day3\CalculationClient\obj\Debug\CalculationClient.csproj.AssemblyReference.cache
+C:\Users\nandi\OneDrive\WiproTraining\Day3\CalculationClient\obj\Debug\CalculationClient.csproj.CoreCompileInputs.cache
+C:\Users\nandi\OneDrive\WiproTraining\Day3\CalculationClient\obj\Debug\Calculat.2EA6E86F.Up2Date
+C:\Users\nandi\OneDrive\WiproTraining\Day3\CalculationClient\obj\Debug\CalculationClient.exe
+C:\Users\nandi\OneDrive\WiproTraining\Day3\CalculationClient\obj\Debug\CalculationClient.pdb
+C:\Users\nandi\OneDrive\WiproTraining\Day3\CalculationClient\obj\Debug\CalculationClient.exe.config

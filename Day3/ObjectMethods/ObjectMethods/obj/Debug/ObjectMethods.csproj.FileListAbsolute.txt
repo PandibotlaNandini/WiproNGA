@@ -1,0 +1,7 @@
+C:\Users\nandi\OneDrive\WiproTraining\Day3\ObjectMethods\ObjectMethods\bin\Debug\ObjectMethods.exe.config
+C:\Users\nandi\OneDrive\WiproTraining\Day3\ObjectMethods\ObjectMethods\bin\Debug\ObjectMethods.exe
+C:\Users\nandi\OneDrive\WiproTraining\Day3\ObjectMethods\ObjectMethods\bin\Debug\ObjectMethods.pdb
+C:\Users\nandi\OneDrive\WiproTraining\Day3\ObjectMethods\ObjectMethods\obj\Debug\ObjectMethods.csproj.AssemblyReference.cache
+C:\Users\nandi\OneDrive\WiproTraining\Day3\ObjectMethods\ObjectMethods\obj\Debug\ObjectMethods.csproj.CoreCompileInputs.cache
+C:\Users\nandi\OneDrive\WiproTraining\Day3\ObjectMethods\ObjectMethods\obj\Debug\ObjectMethods.exe
+C:\Users\nandi\OneDrive\WiproTraining\Day3\ObjectMethods\ObjectMethods\obj\Debug\ObjectMethods.pdb

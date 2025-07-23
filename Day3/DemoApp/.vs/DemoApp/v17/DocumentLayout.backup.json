@@ -1,0 +1,348 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nandi\\OneDrive\\WiproTraining\\DemoApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9B5EE51B-DEF6-4130-84C9-E3834AFEFC1E}|DemoApp\\DemoApp.csproj|c:\\users\\nandi\\onedrive\\wiprotraining\\demoapp\\demoapp\\overloadex2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B5EE51B-DEF6-4130-84C9-E3834AFEFC1E}|DemoApp\\DemoApp.csproj|solutionrelative:demoapp\\overloadex2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|DemoApp||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B5EE51B-DEF6-4130-84C9-E3834AFEFC1E}|DemoApp\\DemoApp.csproj|c:\\users\\nandi\\onedrive\\wiprotraining\\demoapp\\demoapp\\overloadex1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B5EE51B-DEF6-4130-84C9-E3834AFEFC1E}|DemoApp\\DemoApp.csproj|solutionrelative:demoapp\\overloadex1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B5EE51B-DEF6-4130-84C9-E3834AFEFC1E}|DemoApp\\DemoApp.csproj|c:\\users\\nandi\\onedrive\\wiprotraining\\demoapp\\demoapp\\inhc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B5EE51B-DEF6-4130-84C9-E3834AFEFC1E}|DemoApp\\DemoApp.csproj|solutionrelative:demoapp\\inhc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B5EE51B-DEF6-4130-84C9-E3834AFEFC1E}|DemoApp\\DemoApp.csproj|c:\\users\\nandi\\onedrive\\wiprotraining\\demoapp\\demoapp\\inhex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B5EE51B-DEF6-4130-84C9-E3834AFEFC1E}|DemoApp\\DemoApp.csproj|solutionrelative:demoapp\\inhex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B5EE51B-DEF6-4130-84C9-E3834AFEFC1E}|DemoApp\\DemoApp.csproj|c:\\users\\nandi\\onedrive\\wiprotraining\\demoapp\\demoapp\\conover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B5EE51B-DEF6-4130-84C9-E3834AFEFC1E}|DemoApp\\DemoApp.csproj|solutionrelative:demoapp\\conover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B5EE51B-DEF6-4130-84C9-E3834AFEFC1E}|DemoApp\\DemoApp.csproj|c:\\users\\nandi\\onedrive\\wiprotraining\\demoapp\\demoapp\\conex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B5EE51B-DEF6-4130-84C9-E3834AFEFC1E}|DemoApp\\DemoApp.csproj|solutionrelative:demoapp\\conex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B5EE51B-DEF6-4130-84C9-E3834AFEFC1E}|DemoApp\\DemoApp.csproj|c:\\users\\nandi\\onedrive\\wiprotraining\\demoapp\\demoapp\\strdemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B5EE51B-DEF6-4130-84C9-E3834AFEFC1E}|DemoApp\\DemoApp.csproj|solutionrelative:demoapp\\strdemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B5EE51B-DEF6-4130-84C9-E3834AFEFC1E}|DemoApp\\DemoApp.csproj|c:\\users\\nandi\\onedrive\\wiprotraining\\demoapp\\demoapp\\refexnew.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B5EE51B-DEF6-4130-84C9-E3834AFEFC1E}|DemoApp\\DemoApp.csproj|solutionrelative:demoapp\\refexnew.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B5EE51B-DEF6-4130-84C9-E3834AFEFC1E}|DemoApp\\DemoApp.csproj|c:\\users\\nandi\\onedrive\\wiprotraining\\demoapp\\demoapp\\quiz2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B5EE51B-DEF6-4130-84C9-E3834AFEFC1E}|DemoApp\\DemoApp.csproj|solutionrelative:demoapp\\quiz2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B5EE51B-DEF6-4130-84C9-E3834AFEFC1E}|DemoApp\\DemoApp.csproj|c:\\users\\nandi\\onedrive\\wiprotraining\\demoapp\\demoapp\\quiz1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B5EE51B-DEF6-4130-84C9-E3834AFEFC1E}|DemoApp\\DemoApp.csproj|solutionrelative:demoapp\\quiz1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B5EE51B-DEF6-4130-84C9-E3834AFEFC1E}|DemoApp\\DemoApp.csproj|c:\\users\\nandi\\onedrive\\wiprotraining\\demoapp\\demoapp\\jaggedarrayex4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B5EE51B-DEF6-4130-84C9-E3834AFEFC1E}|DemoApp\\DemoApp.csproj|solutionrelative:demoapp\\jaggedarrayex4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B5EE51B-DEF6-4130-84C9-E3834AFEFC1E}|DemoApp\\DemoApp.csproj|c:\\users\\nandi\\onedrive\\wiprotraining\\demoapp\\demoapp\\jaggedarrayex3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B5EE51B-DEF6-4130-84C9-E3834AFEFC1E}|DemoApp\\DemoApp.csproj|solutionrelative:demoapp\\jaggedarrayex3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B5EE51B-DEF6-4130-84C9-E3834AFEFC1E}|DemoApp\\DemoApp.csproj|c:\\users\\nandi\\onedrive\\wiprotraining\\demoapp\\demoapp\\jaggedarrayex2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B5EE51B-DEF6-4130-84C9-E3834AFEFC1E}|DemoApp\\DemoApp.csproj|solutionrelative:demoapp\\jaggedarrayex2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B5EE51B-DEF6-4130-84C9-E3834AFEFC1E}|DemoApp\\DemoApp.csproj|c:\\users\\nandi\\onedrive\\wiprotraining\\demoapp\\demoapp\\jaggedarrayex1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B5EE51B-DEF6-4130-84C9-E3834AFEFC1E}|DemoApp\\DemoApp.csproj|solutionrelative:demoapp\\jaggedarrayex1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B5EE51B-DEF6-4130-84C9-E3834AFEFC1E}|DemoApp\\DemoApp.csproj|c:\\users\\nandi\\onedrive\\wiprotraining\\demoapp\\demoapp\\custominput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B5EE51B-DEF6-4130-84C9-E3834AFEFC1E}|DemoApp\\DemoApp.csproj|solutionrelative:demoapp\\custominput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B5EE51B-DEF6-4130-84C9-E3834AFEFC1E}|DemoApp\\DemoApp.csproj|c:\\users\\nandi\\onedrive\\wiprotraining\\demoapp\\demoapp\\demo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B5EE51B-DEF6-4130-84C9-E3834AFEFC1E}|DemoApp\\DemoApp.csproj|solutionrelative:demoapp\\demo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B5EE51B-DEF6-4130-84C9-E3834AFEFC1E}|DemoApp\\DemoApp.csproj|c:\\users\\nandi\\onedrive\\wiprotraining\\demoapp\\demoapp\\matrix.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B5EE51B-DEF6-4130-84C9-E3834AFEFC1E}|DemoApp\\DemoApp.csproj|solutionrelative:demoapp\\matrix.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B5EE51B-DEF6-4130-84C9-E3834AFEFC1E}|DemoApp\\DemoApp.csproj|c:\\users\\nandi\\onedrive\\wiprotraining\\demoapp\\demoapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B5EE51B-DEF6-4130-84C9-E3834AFEFC1E}|DemoApp\\DemoApp.csproj|solutionrelative:demoapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B5EE51B-DEF6-4130-84C9-E3834AFEFC1E}|DemoApp\\DemoApp.csproj|c:\\users\\nandi\\onedrive\\wiprotraining\\demoapp\\demoapp\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OverloadEx2.cs",
+              "DocumentMoniker": "C:\\Users\\nandi\\OneDrive\\WiproTraining\\DemoApp\\DemoApp\\OverloadEx2.cs",
+              "RelativeDocumentMoniker": "DemoApp\\OverloadEx2.cs",
+              "ToolTip": "C:\\Users\\nandi\\OneDrive\\WiproTraining\\DemoApp\\DemoApp\\OverloadEx2.cs*",
+              "RelativeToolTip": "DemoApp\\OverloadEx2.cs*",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAxwB4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T06:56:56.934Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OverloadEx1.cs",
+              "DocumentMoniker": "C:\\Users\\nandi\\OneDrive\\WiproTraining\\DemoApp\\DemoApp\\OverloadEx1.cs",
+              "RelativeDocumentMoniker": "DemoApp\\OverloadEx1.cs",
+              "ToolTip": "C:\\Users\\nandi\\OneDrive\\WiproTraining\\DemoApp\\DemoApp\\OverloadEx1.cs",
+              "RelativeToolTip": "DemoApp\\OverloadEx1.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAxwB4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T06:56:01.049Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Inhc.cs",
+              "DocumentMoniker": "C:\\Users\\nandi\\OneDrive\\WiproTraining\\DemoApp\\DemoApp\\Inhc.cs",
+              "RelativeDocumentMoniker": "DemoApp\\Inhc.cs",
+              "ToolTip": "C:\\Users\\nandi\\OneDrive\\WiproTraining\\DemoApp\\DemoApp\\Inhc.cs",
+              "RelativeToolTip": "DemoApp\\Inhc.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAuwBwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T06:54:35.186Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "InhEx.cs",
+              "DocumentMoniker": "C:\\Users\\nandi\\OneDrive\\WiproTraining\\DemoApp\\DemoApp\\InhEx.cs",
+              "RelativeDocumentMoniker": "DemoApp\\InhEx.cs",
+              "ToolTip": "C:\\Users\\nandi\\OneDrive\\WiproTraining\\DemoApp\\DemoApp\\InhEx.cs",
+              "RelativeToolTip": "DemoApp\\InhEx.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAA7wB4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T06:50:22.085Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Conover.cs",
+              "DocumentMoniker": "C:\\Users\\nandi\\OneDrive\\WiproTraining\\DemoApp\\DemoApp\\Conover.cs",
+              "RelativeDocumentMoniker": "DemoApp\\Conover.cs",
+              "ToolTip": "C:\\Users\\nandi\\OneDrive\\WiproTraining\\DemoApp\\DemoApp\\Conover.cs",
+              "RelativeToolTip": "DemoApp\\Conover.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAkwCAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T06:48:00.368Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DemoApp",
+              "DocumentMoniker": "C:\\Users\\nandi\\OneDrive\\WiproTraining\\DemoApp\\DemoApp\\DemoApp.csproj",
+              "RelativeDocumentMoniker": "DemoApp\\DemoApp.csproj",
+              "ToolTip": "C:\\Users\\nandi\\OneDrive\\WiproTraining\\DemoApp\\DemoApp\\DemoApp.csproj*",
+              "RelativeToolTip": "DemoApp\\DemoApp.csproj*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-07-23T05:27:27.917Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ConEx.cs",
+              "DocumentMoniker": "C:\\Users\\nandi\\OneDrive\\WiproTraining\\DemoApp\\DemoApp\\ConEx.cs",
+              "RelativeDocumentMoniker": "DemoApp\\ConEx.cs",
+              "ToolTip": "C:\\Users\\nandi\\OneDrive\\WiproTraining\\DemoApp\\DemoApp\\ConEx.cs",
+              "RelativeToolTip": "DemoApp\\ConEx.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAwBYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T06:46:43.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "StrDemo.cs",
+              "DocumentMoniker": "C:\\Users\\nandi\\OneDrive\\WiproTraining\\DemoApp\\DemoApp\\StrDemo.cs",
+              "RelativeDocumentMoniker": "DemoApp\\StrDemo.cs",
+              "ToolTip": "C:\\Users\\nandi\\OneDrive\\WiproTraining\\DemoApp\\DemoApp\\StrDemo.cs",
+              "RelativeToolTip": "DemoApp\\StrDemo.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T06:44:43.58Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RefExNew.cs",
+              "DocumentMoniker": "C:\\Users\\nandi\\OneDrive\\WiproTraining\\DemoApp\\DemoApp\\RefExNew.cs",
+              "RelativeDocumentMoniker": "DemoApp\\RefExNew.cs",
+              "ToolTip": "C:\\Users\\nandi\\OneDrive\\WiproTraining\\DemoApp\\DemoApp\\RefExNew.cs",
+              "RelativeToolTip": "DemoApp\\RefExNew.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T06:42:41.749Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Quiz2.cs",
+              "DocumentMoniker": "C:\\Users\\nandi\\OneDrive\\WiproTraining\\DemoApp\\DemoApp\\Quiz2.cs",
+              "RelativeDocumentMoniker": "DemoApp\\Quiz2.cs",
+              "ToolTip": "C:\\Users\\nandi\\OneDrive\\WiproTraining\\DemoApp\\DemoApp\\Quiz2.cs",
+              "RelativeToolTip": "DemoApp\\Quiz2.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAmwBQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T06:41:24.282Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Quiz1.cs",
+              "DocumentMoniker": "C:\\Users\\nandi\\OneDrive\\WiproTraining\\DemoApp\\DemoApp\\Quiz1.cs",
+              "RelativeDocumentMoniker": "DemoApp\\Quiz1.cs",
+              "ToolTip": "C:\\Users\\nandi\\OneDrive\\WiproTraining\\DemoApp\\DemoApp\\Quiz1.cs",
+              "RelativeToolTip": "DemoApp\\Quiz1.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwBYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T06:40:26.809Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "JaggedArrayEx4.cs",
+              "DocumentMoniker": "C:\\Users\\nandi\\OneDrive\\WiproTraining\\DemoApp\\DemoApp\\JaggedArrayEx4.cs",
+              "RelativeDocumentMoniker": "DemoApp\\JaggedArrayEx4.cs",
+              "ToolTip": "C:\\Users\\nandi\\OneDrive\\WiproTraining\\DemoApp\\DemoApp\\JaggedArrayEx4.cs",
+              "RelativeToolTip": "DemoApp\\JaggedArrayEx4.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAQwEEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T06:38:47.568Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "JaggedArrayEx3.cs",
+              "DocumentMoniker": "C:\\Users\\nandi\\OneDrive\\WiproTraining\\DemoApp\\DemoApp\\JaggedArrayEx3.cs",
+              "RelativeDocumentMoniker": "DemoApp\\JaggedArrayEx3.cs",
+              "ToolTip": "C:\\Users\\nandi\\OneDrive\\WiproTraining\\DemoApp\\DemoApp\\JaggedArrayEx3.cs",
+              "RelativeToolTip": "DemoApp\\JaggedArrayEx3.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T06:37:26.55Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "JaggedArrayEx2.cs",
+              "DocumentMoniker": "C:\\Users\\nandi\\OneDrive\\WiproTraining\\DemoApp\\DemoApp\\JaggedArrayEx2.cs",
+              "RelativeDocumentMoniker": "DemoApp\\JaggedArrayEx2.cs",
+              "ToolTip": "C:\\Users\\nandi\\OneDrive\\WiproTraining\\DemoApp\\DemoApp\\JaggedArrayEx2.cs",
+              "RelativeToolTip": "DemoApp\\JaggedArrayEx2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T06:36:18.77Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "JaggedArrayEx1.cs",
+              "DocumentMoniker": "C:\\Users\\nandi\\OneDrive\\WiproTraining\\DemoApp\\DemoApp\\JaggedArrayEx1.cs",
+              "RelativeDocumentMoniker": "DemoApp\\JaggedArrayEx1.cs",
+              "ToolTip": "C:\\Users\\nandi\\OneDrive\\WiproTraining\\DemoApp\\DemoApp\\JaggedArrayEx1.cs",
+              "RelativeToolTip": "DemoApp\\JaggedArrayEx1.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T05:33:50.444Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CustomInput.cs",
+              "DocumentMoniker": "C:\\Users\\nandi\\OneDrive\\WiproTraining\\DemoApp\\DemoApp\\CustomInput.cs",
+              "RelativeDocumentMoniker": "DemoApp\\CustomInput.cs",
+              "ToolTip": "C:\\Users\\nandi\\OneDrive\\WiproTraining\\DemoApp\\DemoApp\\CustomInput.cs",
+              "RelativeToolTip": "DemoApp\\CustomInput.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwCMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T05:32:41.616Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Demo.cs",
+              "DocumentMoniker": "C:\\Users\\nandi\\OneDrive\\WiproTraining\\DemoApp\\DemoApp\\Demo.cs",
+              "RelativeDocumentMoniker": "DemoApp\\Demo.cs",
+              "ToolTip": "C:\\Users\\nandi\\OneDrive\\WiproTraining\\DemoApp\\DemoApp\\Demo.cs",
+              "RelativeToolTip": "DemoApp\\Demo.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA1wBoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T05:31:34.344Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Matrix.cs",
+              "DocumentMoniker": "C:\\Users\\nandi\\OneDrive\\WiproTraining\\DemoApp\\DemoApp\\Matrix.cs",
+              "RelativeDocumentMoniker": "DemoApp\\Matrix.cs",
+              "ToolTip": "C:\\Users\\nandi\\OneDrive\\WiproTraining\\DemoApp\\DemoApp\\Matrix.cs",
+              "RelativeToolTip": "DemoApp\\Matrix.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAYwBoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T05:30:13.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nandi\\OneDrive\\WiproTraining\\DemoApp\\DemoApp\\Program.cs",
+              "RelativeDocumentMoniker": "DemoApp\\Program.cs",
+              "ToolTip": "C:\\Users\\nandi\\OneDrive\\WiproTraining\\DemoApp\\DemoApp\\Program.cs",
+              "RelativeToolTip": "DemoApp\\Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwCQAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T05:26:28.216Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

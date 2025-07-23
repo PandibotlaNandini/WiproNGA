@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nandi\\OneDrive\\WiproTraining\\Day3\\CustomArray\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9936B4B5-6B4E-4968-A971-8D9BDA874A8A}|CustomArray\\CustomArray.csproj|c:\\users\\nandi\\onedrive\\wiprotraining\\day3\\customarray\\customarray\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9936B4B5-6B4E-4968-A971-8D9BDA874A8A}|CustomArray\\CustomArray.csproj|solutionrelative:customarray\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9936B4B5-6B4E-4968-A971-8D9BDA874A8A}|CustomArray\\CustomArray.csproj|c:\\users\\nandi\\onedrive\\wiprotraining\\day3\\customarray\\customarray\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9936B4B5-6B4E-4968-A971-8D9BDA874A8A}|CustomArray\\CustomArray.csproj|solutionrelative:customarray\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nandi\\OneDrive\\WiproTraining\\Day3\\CustomArray\\CustomArray\\Program.cs",
+              "RelativeDocumentMoniker": "CustomArray\\Program.cs",
+              "ToolTip": "C:\\Users\\nandi\\OneDrive\\WiproTraining\\Day3\\CustomArray\\CustomArray\\Program.cs",
+              "RelativeToolTip": "CustomArray\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T11:39:06.771Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\nandi\\OneDrive\\WiproTraining\\Day3\\CustomArray\\CustomArray\\Student.cs",
+              "RelativeDocumentMoniker": "CustomArray\\Student.cs",
+              "ToolTip": "C:\\Users\\nandi\\OneDrive\\WiproTraining\\Day3\\CustomArray\\CustomArray\\Student.cs",
+              "RelativeToolTip": "CustomArray\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T11:36:35.02Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

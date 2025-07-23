@@ -1,0 +1,6 @@
+C:\Users\nandi\OneDrive\WiproTraining\Day3\CalculationLibrary\CalculationLibrary\bin\Debug\CalculationLibrary.dll
+C:\Users\nandi\OneDrive\WiproTraining\Day3\CalculationLibrary\CalculationLibrary\bin\Debug\CalculationLibrary.pdb
+C:\Users\nandi\OneDrive\WiproTraining\Day3\CalculationLibrary\CalculationLibrary\obj\Debug\CalculationLibrary.csproj.AssemblyReference.cache
+C:\Users\nandi\OneDrive\WiproTraining\Day3\CalculationLibrary\CalculationLibrary\obj\Debug\CalculationLibrary.csproj.CoreCompileInputs.cache
+C:\Users\nandi\OneDrive\WiproTraining\Day3\CalculationLibrary\CalculationLibrary\obj\Debug\CalculationLibrary.dll
+C:\Users\nandi\OneDrive\WiproTraining\Day3\CalculationLibrary\CalculationLibrary\obj\Debug\CalculationLibrary.pdb

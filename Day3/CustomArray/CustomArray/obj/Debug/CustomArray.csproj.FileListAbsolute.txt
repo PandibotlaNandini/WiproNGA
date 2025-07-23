@@ -1,0 +1,7 @@
+C:\Users\nandi\OneDrive\WiproTraining\Day3\CustomArray\CustomArray\bin\Debug\CustomArray.exe.config
+C:\Users\nandi\OneDrive\WiproTraining\Day3\CustomArray\CustomArray\bin\Debug\CustomArray.exe
+C:\Users\nandi\OneDrive\WiproTraining\Day3\CustomArray\CustomArray\bin\Debug\CustomArray.pdb
+C:\Users\nandi\OneDrive\WiproTraining\Day3\CustomArray\CustomArray\obj\Debug\CustomArray.csproj.AssemblyReference.cache
+C:\Users\nandi\OneDrive\WiproTraining\Day3\CustomArray\CustomArray\obj\Debug\CustomArray.csproj.CoreCompileInputs.cache
+C:\Users\nandi\OneDrive\WiproTraining\Day3\CustomArray\CustomArray\obj\Debug\CustomArray.exe
+C:\Users\nandi\OneDrive\WiproTraining\Day3\CustomArray\CustomArray\obj\Debug\CustomArray.pdb

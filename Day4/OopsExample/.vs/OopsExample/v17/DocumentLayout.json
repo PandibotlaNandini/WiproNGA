@@ -1,0 +1,123 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nandi\\OneDrive\\WiproTraining\\Day4\\OopsExample\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D49D1F75-3737-49B8-9662-C74AD80C6B9C}|OopsExample\\OopsExample.csproj|c:\\users\\nandi\\onedrive\\wiprotraining\\day4\\oopsexample\\oopsexample\\cricketex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D49D1F75-3737-49B8-9662-C74AD80C6B9C}|OopsExample\\OopsExample.csproj|solutionrelative:oopsexample\\cricketex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|OopsExample||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D49D1F75-3737-49B8-9662-C74AD80C6B9C}|OopsExample\\OopsExample.csproj|c:\\users\\nandi\\onedrive\\wiprotraining\\day4\\oopsexample\\oopsexample\\staticclassex1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D49D1F75-3737-49B8-9662-C74AD80C6B9C}|OopsExample\\OopsExample.csproj|solutionrelative:oopsexample\\staticclassex1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D49D1F75-3737-49B8-9662-C74AD80C6B9C}|OopsExample\\OopsExample.csproj|c:\\users\\nandi\\onedrive\\wiprotraining\\day4\\oopsexample\\oopsexample\\staticmethodex1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D49D1F75-3737-49B8-9662-C74AD80C6B9C}|OopsExample\\OopsExample.csproj|solutionrelative:oopsexample\\staticmethodex1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D49D1F75-3737-49B8-9662-C74AD80C6B9C}|OopsExample\\OopsExample.csproj|c:\\users\\nandi\\onedrive\\wiprotraining\\day4\\oopsexample\\oopsexample\\staticex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D49D1F75-3737-49B8-9662-C74AD80C6B9C}|OopsExample\\OopsExample.csproj|solutionrelative:oopsexample\\staticex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D49D1F75-3737-49B8-9662-C74AD80C6B9C}|OopsExample\\OopsExample.csproj|c:\\users\\nandi\\onedrive\\wiprotraining\\day4\\oopsexample\\oopsexample\\demo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D49D1F75-3737-49B8-9662-C74AD80C6B9C}|OopsExample\\OopsExample.csproj|solutionrelative:oopsexample\\demo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D49D1F75-3737-49B8-9662-C74AD80C6B9C}|OopsExample\\OopsExample.csproj|c:\\users\\nandi\\onedrive\\wiprotraining\\day4\\oopsexample\\oopsexample\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CricketEx.cs",
+              "DocumentMoniker": "C:\\Users\\nandi\\OneDrive\\WiproTraining\\Day4\\OopsExample\\OopsExample\\CricketEx.cs",
+              "RelativeDocumentMoniker": "OopsExample\\CricketEx.cs",
+              "ToolTip": "C:\\Users\\nandi\\OneDrive\\WiproTraining\\Day4\\OopsExample\\OopsExample\\CricketEx.cs",
+              "RelativeToolTip": "OopsExample\\CricketEx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAwwBsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T06:36:29.386Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StaticClassEx1.cs",
+              "DocumentMoniker": "C:\\Users\\nandi\\OneDrive\\WiproTraining\\Day4\\OopsExample\\OopsExample\\StaticClassEx1.cs",
+              "RelativeDocumentMoniker": "OopsExample\\StaticClassEx1.cs",
+              "ToolTip": "C:\\Users\\nandi\\OneDrive\\WiproTraining\\Day4\\OopsExample\\OopsExample\\StaticClassEx1.cs",
+              "RelativeToolTip": "OopsExample\\StaticClassEx1.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAABUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T06:30:42.822Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StaticMethodEx1.cs",
+              "DocumentMoniker": "C:\\Users\\nandi\\OneDrive\\WiproTraining\\Day4\\OopsExample\\OopsExample\\StaticMethodEx1.cs",
+              "RelativeDocumentMoniker": "OopsExample\\StaticMethodEx1.cs",
+              "ToolTip": "C:\\Users\\nandi\\OneDrive\\WiproTraining\\Day4\\OopsExample\\OopsExample\\StaticMethodEx1.cs",
+              "RelativeToolTip": "OopsExample\\StaticMethodEx1.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T06:29:29.7Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OopsExample",
+              "DocumentMoniker": "C:\\Users\\nandi\\OneDrive\\WiproTraining\\Day4\\OopsExample\\OopsExample\\OopsExample.csproj",
+              "RelativeDocumentMoniker": "OopsExample\\OopsExample.csproj",
+              "ToolTip": "C:\\Users\\nandi\\OneDrive\\WiproTraining\\Day4\\OopsExample\\OopsExample\\OopsExample.csproj",
+              "RelativeToolTip": "OopsExample\\OopsExample.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-07-24T06:27:39.764Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StaticEx.cs",
+              "DocumentMoniker": "C:\\Users\\nandi\\OneDrive\\WiproTraining\\Day4\\OopsExample\\OopsExample\\StaticEx.cs",
+              "RelativeDocumentMoniker": "OopsExample\\StaticEx.cs",
+              "ToolTip": "C:\\Users\\nandi\\OneDrive\\WiproTraining\\Day4\\OopsExample\\OopsExample\\StaticEx.cs",
+              "RelativeToolTip": "OopsExample\\StaticEx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T06:27:22.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Demo.cs",
+              "DocumentMoniker": "C:\\Users\\nandi\\OneDrive\\WiproTraining\\Day4\\OopsExample\\OopsExample\\Demo.cs",
+              "RelativeDocumentMoniker": "OopsExample\\Demo.cs",
+              "ToolTip": "C:\\Users\\nandi\\OneDrive\\WiproTraining\\Day4\\OopsExample\\OopsExample\\Demo.cs",
+              "RelativeToolTip": "OopsExample\\Demo.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwBcAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T06:24:09.604Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

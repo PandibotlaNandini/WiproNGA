@@ -1,0 +1,8 @@
+C:\Users\nandi\OneDrive\WiproTraining\Day4\OopsExample\OopsExample\bin\Debug\OopsExample.exe.config
+C:\Users\nandi\OneDrive\WiproTraining\Day4\OopsExample\OopsExample\bin\Debug\OopsExample.exe
+C:\Users\nandi\OneDrive\WiproTraining\Day4\OopsExample\OopsExample\bin\Debug\OopsExample.pdb
+C:\Users\nandi\OneDrive\WiproTraining\Day4\OopsExample\OopsExample\obj\Debug\OopsExample.csproj.AssemblyReference.cache
+C:\Users\nandi\OneDrive\WiproTraining\Day4\OopsExample\OopsExample\obj\Debug\OopsExample.csproj.CoreCompileInputs.cache
+C:\Users\nandi\OneDrive\WiproTraining\Day4\OopsExample\OopsExample\obj\Debug\OopsExample.exe
+C:\Users\nandi\OneDrive\WiproTraining\Day4\OopsExample\OopsExample\obj\Debug\OopsExample.pdb
+C:\Users\nandi\OneDrive\WiproTraining\Day4\OopsExample\OopsExample\obj\Debug\OopsExample.exe.config

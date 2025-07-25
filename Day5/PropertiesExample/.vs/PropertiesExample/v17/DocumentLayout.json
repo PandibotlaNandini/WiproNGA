@@ -1,0 +1,107 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nandi\\OneDrive\\WiproTraining\\Day5\\PropertiesExample\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F7312289-E623-45E9-B916-FF3E49245313}|PropertiesExample\\PropertiesExample.csproj|c:\\users\\nandi\\onedrive\\wiprotraining\\day5\\propertiesexample\\propertiesexample\\autoimplemented.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7312289-E623-45E9-B916-FF3E49245313}|PropertiesExample\\PropertiesExample.csproj|solutionrelative:propertiesexample\\autoimplemented.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|PropertiesExample||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7312289-E623-45E9-B916-FF3E49245313}|PropertiesExample\\PropertiesExample.csproj|c:\\users\\nandi\\onedrive\\wiprotraining\\day5\\propertiesexample\\propertiesexample\\writeonly.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7312289-E623-45E9-B916-FF3E49245313}|PropertiesExample\\PropertiesExample.csproj|solutionrelative:propertiesexample\\writeonly.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7312289-E623-45E9-B916-FF3E49245313}|PropertiesExample\\PropertiesExample.csproj|c:\\users\\nandi\\onedrive\\wiprotraining\\day5\\propertiesexample\\propertiesexample\\readonlyexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7312289-E623-45E9-B916-FF3E49245313}|PropertiesExample\\PropertiesExample.csproj|solutionrelative:propertiesexample\\readonlyexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7312289-E623-45E9-B916-FF3E49245313}|PropertiesExample\\PropertiesExample.csproj|c:\\users\\nandi\\onedrive\\wiprotraining\\day5\\propertiesexample\\propertiesexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7312289-E623-45E9-B916-FF3E49245313}|PropertiesExample\\PropertiesExample.csproj|solutionrelative:propertiesexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7312289-E623-45E9-B916-FF3E49245313}|PropertiesExample\\PropertiesExample.csproj|c:\\users\\nandi\\onedrive\\wiprotraining\\day5\\propertiesexample\\propertiesexample\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PropertiesExample",
+              "DocumentMoniker": "C:\\Users\\nandi\\OneDrive\\WiproTraining\\Day5\\PropertiesExample\\PropertiesExample\\PropertiesExample.csproj",
+              "RelativeDocumentMoniker": "PropertiesExample\\PropertiesExample.csproj",
+              "ToolTip": "C:\\Users\\nandi\\OneDrive\\WiproTraining\\Day5\\PropertiesExample\\PropertiesExample\\PropertiesExample.csproj",
+              "RelativeToolTip": "PropertiesExample\\PropertiesExample.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-07-25T05:43:22.655Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AutoImplemented.cs",
+              "DocumentMoniker": "C:\\Users\\nandi\\OneDrive\\WiproTraining\\Day5\\PropertiesExample\\PropertiesExample\\AutoImplemented.cs",
+              "RelativeDocumentMoniker": "PropertiesExample\\AutoImplemented.cs",
+              "ToolTip": "C:\\Users\\nandi\\OneDrive\\WiproTraining\\Day5\\PropertiesExample\\PropertiesExample\\AutoImplemented.cs",
+              "RelativeToolTip": "PropertiesExample\\AutoImplemented.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T05:47:18.975Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WriteOnly.cs",
+              "DocumentMoniker": "C:\\Users\\nandi\\OneDrive\\WiproTraining\\Day5\\PropertiesExample\\PropertiesExample\\WriteOnly.cs",
+              "RelativeDocumentMoniker": "PropertiesExample\\WriteOnly.cs",
+              "ToolTip": "C:\\Users\\nandi\\OneDrive\\WiproTraining\\Day5\\PropertiesExample\\PropertiesExample\\WriteOnly.cs",
+              "RelativeToolTip": "PropertiesExample\\WriteOnly.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAA1wCQAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T05:44:05.967Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ReadOnlyExample.cs",
+              "DocumentMoniker": "C:\\Users\\nandi\\OneDrive\\WiproTraining\\Day5\\PropertiesExample\\PropertiesExample\\ReadOnlyExample.cs",
+              "RelativeDocumentMoniker": "PropertiesExample\\ReadOnlyExample.cs",
+              "ToolTip": "C:\\Users\\nandi\\OneDrive\\WiproTraining\\Day5\\PropertiesExample\\PropertiesExample\\ReadOnlyExample.cs",
+              "RelativeToolTip": "PropertiesExample\\ReadOnlyExample.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T05:42:31.153Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nandi\\OneDrive\\WiproTraining\\Day5\\PropertiesExample\\PropertiesExample\\Program.cs",
+              "RelativeDocumentMoniker": "PropertiesExample\\Program.cs",
+              "ToolTip": "C:\\Users\\nandi\\OneDrive\\WiproTraining\\Day5\\PropertiesExample\\PropertiesExample\\Program.cs",
+              "RelativeToolTip": "PropertiesExample\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T05:40:59.028Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+C:\Users\nandi\OneDrive\WiproTraining\Day5\CollectionsExample\CollectionsExample\bin\Debug\CollectionsExample.exe.config
+C:\Users\nandi\OneDrive\WiproTraining\Day5\CollectionsExample\CollectionsExample\bin\Debug\CollectionsExample.exe
+C:\Users\nandi\OneDrive\WiproTraining\Day5\CollectionsExample\CollectionsExample\bin\Debug\CollectionsExample.pdb
+C:\Users\nandi\OneDrive\WiproTraining\Day5\CollectionsExample\CollectionsExample\obj\Debug\CollectionsExample.csproj.AssemblyReference.cache
+C:\Users\nandi\OneDrive\WiproTraining\Day5\CollectionsExample\CollectionsExample\obj\Debug\CollectionsExample.csproj.CoreCompileInputs.cache
+C:\Users\nandi\OneDrive\WiproTraining\Day5\CollectionsExample\CollectionsExample\obj\Debug\CollectionsExample.exe
+C:\Users\nandi\OneDrive\WiproTraining\Day5\CollectionsExample\CollectionsExample\obj\Debug\CollectionsExample.pdb
+C:\Users\nandi\OneDrive\WiproTraining\Day5\CollectionsExample\CollectionsExample\obj\Debug\CollectionsExample.exe.config

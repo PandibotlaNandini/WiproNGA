@@ -1,0 +1,13 @@
+C:\Users\nandi\OneDrive\WiproTraining\Day6\ProjectOne\AgentProject.Bal\AgentProject.Bal\bin\Debug\AgentProject.Bal.dll
+C:\Users\nandi\OneDrive\WiproTraining\Day6\ProjectOne\AgentProject.Bal\AgentProject.Bal\bin\Debug\AgentProject.Bal.pdb
+C:\Users\nandi\OneDrive\WiproTraining\Day6\ProjectOne\AgentProject.Bal\AgentProject.Bal\bin\Debug\AgentProject.Dao.dll
+C:\Users\nandi\OneDrive\WiproTraining\Day6\ProjectOne\AgentProject.Bal\AgentProject.Bal\bin\Debug\Agentproject.Exceptions.dll
+C:\Users\nandi\OneDrive\WiproTraining\Day6\ProjectOne\AgentProject.Bal\AgentProject.Bal\bin\Debug\AgentProject.Models.dll
+C:\Users\nandi\OneDrive\WiproTraining\Day6\ProjectOne\AgentProject.Bal\AgentProject.Bal\bin\Debug\AgentProject.Dao.pdb
+C:\Users\nandi\OneDrive\WiproTraining\Day6\ProjectOne\AgentProject.Bal\AgentProject.Bal\bin\Debug\Agentproject.Exceptions.pdb
+C:\Users\nandi\OneDrive\WiproTraining\Day6\ProjectOne\AgentProject.Bal\AgentProject.Bal\bin\Debug\AgentProject.Models.pdb
+C:\Users\nandi\OneDrive\WiproTraining\Day6\ProjectOne\AgentProject.Bal\AgentProject.Bal\obj\Debug\AgentProject.Bal.csproj.AssemblyReference.cache
+C:\Users\nandi\OneDrive\WiproTraining\Day6\ProjectOne\AgentProject.Bal\AgentProject.Bal\obj\Debug\AgentProject.Bal.csproj.CoreCompileInputs.cache
+C:\Users\nandi\OneDrive\WiproTraining\Day6\ProjectOne\AgentProject.Bal\AgentProject.Bal\obj\Debug\AgentPro.5D592BCC.Up2Date
+C:\Users\nandi\OneDrive\WiproTraining\Day6\ProjectOne\AgentProject.Bal\AgentProject.Bal\obj\Debug\AgentProject.Bal.dll
+C:\Users\nandi\OneDrive\WiproTraining\Day6\ProjectOne\AgentProject.Bal\AgentProject.Bal\obj\Debug\AgentProject.Bal.pdb

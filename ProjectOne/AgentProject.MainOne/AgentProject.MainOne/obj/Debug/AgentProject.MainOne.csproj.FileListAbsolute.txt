@@ -1,0 +1,17 @@
+C:\Users\nandi\OneDrive\WiproTraining\Day6\ProjectOne\AgentProject.MainOne\AgentProject.MainOne\bin\Debug\AgentProject.MainOne.exe.config
+C:\Users\nandi\OneDrive\WiproTraining\Day6\ProjectOne\AgentProject.MainOne\AgentProject.MainOne\bin\Debug\AgentProject.MainOne.exe
+C:\Users\nandi\OneDrive\WiproTraining\Day6\ProjectOne\AgentProject.MainOne\AgentProject.MainOne\bin\Debug\AgentProject.MainOne.pdb
+C:\Users\nandi\OneDrive\WiproTraining\Day6\ProjectOne\AgentProject.MainOne\AgentProject.MainOne\bin\Debug\AgentProject.Bal.dll
+C:\Users\nandi\OneDrive\WiproTraining\Day6\ProjectOne\AgentProject.MainOne\AgentProject.MainOne\bin\Debug\Agentproject.Exceptions.dll
+C:\Users\nandi\OneDrive\WiproTraining\Day6\ProjectOne\AgentProject.MainOne\AgentProject.MainOne\bin\Debug\AgentProject.Models.dll
+C:\Users\nandi\OneDrive\WiproTraining\Day6\ProjectOne\AgentProject.MainOne\AgentProject.MainOne\bin\Debug\AgentProject.Dao.dll
+C:\Users\nandi\OneDrive\WiproTraining\Day6\ProjectOne\AgentProject.MainOne\AgentProject.MainOne\bin\Debug\AgentProject.Bal.pdb
+C:\Users\nandi\OneDrive\WiproTraining\Day6\ProjectOne\AgentProject.MainOne\AgentProject.MainOne\bin\Debug\Agentproject.Exceptions.pdb
+C:\Users\nandi\OneDrive\WiproTraining\Day6\ProjectOne\AgentProject.MainOne\AgentProject.MainOne\bin\Debug\AgentProject.Models.pdb
+C:\Users\nandi\OneDrive\WiproTraining\Day6\ProjectOne\AgentProject.MainOne\AgentProject.MainOne\bin\Debug\AgentProject.Dao.pdb
+C:\Users\nandi\OneDrive\WiproTraining\Day6\ProjectOne\AgentProject.MainOne\AgentProject.MainOne\obj\Debug\AgentProject.MainOne.csproj.AssemblyReference.cache
+C:\Users\nandi\OneDrive\WiproTraining\Day6\ProjectOne\AgentProject.MainOne\AgentProject.MainOne\obj\Debug\AgentProject.MainOne.csproj.CoreCompileInputs.cache
+C:\Users\nandi\OneDrive\WiproTraining\Day6\ProjectOne\AgentProject.MainOne\AgentProject.MainOne\obj\Debug\AgentPro.E1AAE790.Up2Date
+C:\Users\nandi\OneDrive\WiproTraining\Day6\ProjectOne\AgentProject.MainOne\AgentProject.MainOne\obj\Debug\AgentProject.MainOne.exe
+C:\Users\nandi\OneDrive\WiproTraining\Day6\ProjectOne\AgentProject.MainOne\AgentProject.MainOne\obj\Debug\AgentProject.MainOne.pdb
+C:\Users\nandi\OneDrive\WiproTraining\Day6\ProjectOne\AgentProject.MainOne\AgentProject.MainOne\obj\Debug\AgentProject.MainOne.exe.config

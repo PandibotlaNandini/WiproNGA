@@ -1,0 +1,6 @@
+C:\Users\nandi\OneDrive\WiproTraining\Day6\ProjectOne\AgentProject.Exceptions\Agentproject.Exceptions\bin\Debug\Agentproject.Exceptions.dll
+C:\Users\nandi\OneDrive\WiproTraining\Day6\ProjectOne\AgentProject.Exceptions\Agentproject.Exceptions\bin\Debug\Agentproject.Exceptions.pdb
+C:\Users\nandi\OneDrive\WiproTraining\Day6\ProjectOne\AgentProject.Exceptions\Agentproject.Exceptions\obj\Debug\Agentproject.Exceptions.csproj.AssemblyReference.cache
+C:\Users\nandi\OneDrive\WiproTraining\Day6\ProjectOne\AgentProject.Exceptions\Agentproject.Exceptions\obj\Debug\Agentproject.Exceptions.csproj.CoreCompileInputs.cache
+C:\Users\nandi\OneDrive\WiproTraining\Day6\ProjectOne\AgentProject.Exceptions\Agentproject.Exceptions\obj\Debug\Agentproject.Exceptions.dll
+C:\Users\nandi\OneDrive\WiproTraining\Day6\ProjectOne\AgentProject.Exceptions\Agentproject.Exceptions\obj\Debug\Agentproject.Exceptions.pdb

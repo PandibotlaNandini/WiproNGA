@@ -1,0 +1,112 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nandi\\OneDrive\\WiproTraining\\Day6\\ProjectOne\\AgentProject.Models\\AgentProject.Models\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8FBC153F-E4C2-49C1-BBA1-1325629FC9E2}|..\\..\\AgentProject.Bal\\AgentProject.Bal\\AgentProject.Bal.csproj|c:\\users\\nandi\\onedrive\\wiprotraining\\day6\\projectone\\agentproject.bal\\agentproject.bal\\agentbal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{983B59AF-056B-439E-96F7-EFF289DB1A61}|AgentProject.Models\\AgentProject.Models.csproj|C:\\Users\\nandi\\OneDrive\\WiproTraining\\Day6\\ProjectOne\\AgentProject.Models\\AgentProject.Models\\agentproject.models\\agent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{983B59AF-056B-439E-96F7-EFF289DB1A61}|AgentProject.Models\\AgentProject.Models.csproj|solutionrelative:agentproject.models\\agent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BD668D3-92AA-4957-8ECE-CF6E569651AC}|..\\..\\AgentProject.Dao\\AgentProject.Dao\\AgentProject.Dao.csproj|c:\\users\\nandi\\onedrive\\wiprotraining\\day6\\projectone\\agentproject.dao\\agentproject.dao\\agentdaoimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC328213-588F-464C-B55C-48638E80CB5F}|..\\..\\AgentProject.MainOne\\AgentProject.MainOne\\AgentProject.MainOne.csproj|c:\\users\\nandi\\onedrive\\wiprotraining\\day6\\projectone\\agentproject.mainone\\agentproject.mainone\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BD668D3-92AA-4957-8ECE-CF6E569651AC}|..\\..\\AgentProject.Dao\\AgentProject.Dao\\AgentProject.Dao.csproj|c:\\users\\nandi\\onedrive\\wiprotraining\\day6\\projectone\\agentproject.dao\\agentproject.dao\\iagentdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C389287-C94A-4E35-919C-6CDF5C167EEC}|..\\..\\AgentProject.Exceptions\\Agentproject.Exceptions\\Agentproject.Exceptions.csproj|c:\\users\\nandi\\onedrive\\wiprotraining\\day6\\projectone\\agentproject.exceptions\\agentproject.exceptions\\agentexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nandi\\OneDrive\\WiproTraining\\Day6\\ProjectOne\\AgentProject.MainOne\\AgentProject.MainOne\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\AgentProject.MainOne\\AgentProject.MainOne\\Program.cs",
+              "ToolTip": "C:\\Users\\nandi\\OneDrive\\WiproTraining\\Day6\\ProjectOne\\AgentProject.MainOne\\AgentProject.MainOne\\Program.cs",
+              "RelativeToolTip": "..\\..\\AgentProject.MainOne\\AgentProject.MainOne\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T16:42:02.44Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AgentBal.cs",
+              "DocumentMoniker": "C:\\Users\\nandi\\OneDrive\\WiproTraining\\Day6\\ProjectOne\\AgentProject.Bal\\AgentProject.Bal\\AgentBal.cs",
+              "RelativeDocumentMoniker": "..\\..\\AgentProject.Bal\\AgentProject.Bal\\AgentBal.cs",
+              "ToolTip": "C:\\Users\\nandi\\OneDrive\\WiproTraining\\Day6\\ProjectOne\\AgentProject.Bal\\AgentProject.Bal\\AgentBal.cs*",
+              "RelativeToolTip": "..\\..\\AgentProject.Bal\\AgentProject.Bal\\AgentBal.cs*",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAiwFMAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T16:37:24.565Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IAgentDao.cs",
+              "DocumentMoniker": "C:\\Users\\nandi\\OneDrive\\WiproTraining\\Day6\\ProjectOne\\AgentProject.Dao\\AgentProject.Dao\\IAgentDao.cs",
+              "RelativeDocumentMoniker": "..\\..\\AgentProject.Dao\\AgentProject.Dao\\IAgentDao.cs",
+              "ToolTip": "C:\\Users\\nandi\\OneDrive\\WiproTraining\\Day6\\ProjectOne\\AgentProject.Dao\\AgentProject.Dao\\IAgentDao.cs",
+              "RelativeToolTip": "..\\..\\AgentProject.Dao\\AgentProject.Dao\\IAgentDao.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T16:30:22.002Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AgentDaoImpl.cs",
+              "DocumentMoniker": "C:\\Users\\nandi\\OneDrive\\WiproTraining\\Day6\\ProjectOne\\AgentProject.Dao\\AgentProject.Dao\\AgentDaoImpl.cs",
+              "RelativeDocumentMoniker": "..\\..\\AgentProject.Dao\\AgentProject.Dao\\AgentDaoImpl.cs",
+              "ToolTip": "C:\\Users\\nandi\\OneDrive\\WiproTraining\\Day6\\ProjectOne\\AgentProject.Dao\\AgentProject.Dao\\AgentDaoImpl.cs",
+              "RelativeToolTip": "..\\..\\AgentProject.Dao\\AgentProject.Dao\\AgentDaoImpl.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAADMAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T16:29:41.66Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AgentException.cs",
+              "DocumentMoniker": "C:\\Users\\nandi\\OneDrive\\WiproTraining\\Day6\\ProjectOne\\AgentProject.Exceptions\\Agentproject.Exceptions\\AgentException.cs",
+              "RelativeDocumentMoniker": "..\\..\\AgentProject.Exceptions\\Agentproject.Exceptions\\AgentException.cs",
+              "ToolTip": "C:\\Users\\nandi\\OneDrive\\WiproTraining\\Day6\\ProjectOne\\AgentProject.Exceptions\\Agentproject.Exceptions\\AgentException.cs",
+              "RelativeToolTip": "..\\..\\AgentProject.Exceptions\\Agentproject.Exceptions\\AgentException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T16:28:00.889Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Agent.cs",
+              "DocumentMoniker": "C:\\Users\\nandi\\OneDrive\\WiproTraining\\Day6\\ProjectOne\\AgentProject.Models\\AgentProject.Models\\AgentProject.Models\\Agent.cs",
+              "RelativeDocumentMoniker": "AgentProject.Models\\Agent.cs",
+              "ToolTip": "C:\\Users\\nandi\\OneDrive\\WiproTraining\\Day6\\ProjectOne\\AgentProject.Models\\AgentProject.Models\\AgentProject.Models\\Agent.cs",
+              "RelativeToolTip": "AgentProject.Models\\Agent.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAADwvxoAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T16:09:42.881Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

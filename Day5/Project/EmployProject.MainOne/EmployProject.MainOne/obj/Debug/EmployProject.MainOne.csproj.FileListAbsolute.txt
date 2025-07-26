@@ -1,0 +1,17 @@
+C:\Users\nandi\OneDrive\WiproTraining\Day5\Project\EmployProject.MainOne\EmployProject.MainOne\bin\Debug\EmployProject.MainOne.exe.config
+C:\Users\nandi\OneDrive\WiproTraining\Day5\Project\EmployProject.MainOne\EmployProject.MainOne\bin\Debug\EmployProject.MainOne.exe
+C:\Users\nandi\OneDrive\WiproTraining\Day5\Project\EmployProject.MainOne\EmployProject.MainOne\bin\Debug\EmployProject.MainOne.pdb
+C:\Users\nandi\OneDrive\WiproTraining\Day5\Project\EmployProject.MainOne\EmployProject.MainOne\bin\Debug\EmployProject.Bal.dll
+C:\Users\nandi\OneDrive\WiproTraining\Day5\Project\EmployProject.MainOne\EmployProject.MainOne\bin\Debug\EmployProject.Exceptions.dll
+C:\Users\nandi\OneDrive\WiproTraining\Day5\Project\EmployProject.MainOne\EmployProject.MainOne\bin\Debug\EmployProject.Models.dll
+C:\Users\nandi\OneDrive\WiproTraining\Day5\Project\EmployProject.MainOne\EmployProject.MainOne\bin\Debug\EmployProject.Dao1.dll
+C:\Users\nandi\OneDrive\WiproTraining\Day5\Project\EmployProject.MainOne\EmployProject.MainOne\bin\Debug\EmployProject.Bal.pdb
+C:\Users\nandi\OneDrive\WiproTraining\Day5\Project\EmployProject.MainOne\EmployProject.MainOne\bin\Debug\EmployProject.Exceptions.pdb
+C:\Users\nandi\OneDrive\WiproTraining\Day5\Project\EmployProject.MainOne\EmployProject.MainOne\bin\Debug\EmployProject.Models.pdb
+C:\Users\nandi\OneDrive\WiproTraining\Day5\Project\EmployProject.MainOne\EmployProject.MainOne\bin\Debug\EmployProject.Dao1.pdb
+C:\Users\nandi\OneDrive\WiproTraining\Day5\Project\EmployProject.MainOne\EmployProject.MainOne\obj\Debug\EmployProject.MainOne.csproj.AssemblyReference.cache
+C:\Users\nandi\OneDrive\WiproTraining\Day5\Project\EmployProject.MainOne\EmployProject.MainOne\obj\Debug\EmployProject.MainOne.csproj.CoreCompileInputs.cache
+C:\Users\nandi\OneDrive\WiproTraining\Day5\Project\EmployProject.MainOne\EmployProject.MainOne\obj\Debug\EmployPr.459F3D0D.Up2Date
+C:\Users\nandi\OneDrive\WiproTraining\Day5\Project\EmployProject.MainOne\EmployProject.MainOne\obj\Debug\EmployProject.MainOne.exe
+C:\Users\nandi\OneDrive\WiproTraining\Day5\Project\EmployProject.MainOne\EmployProject.MainOne\obj\Debug\EmployProject.MainOne.pdb
+C:\Users\nandi\OneDrive\WiproTraining\Day5\Project\EmployProject.MainOne\EmployProject.MainOne\obj\Debug\EmployProject.MainOne.exe.config

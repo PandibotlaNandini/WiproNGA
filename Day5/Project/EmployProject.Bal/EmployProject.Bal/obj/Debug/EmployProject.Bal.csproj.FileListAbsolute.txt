@@ -1,0 +1,13 @@
+C:\Users\nandi\OneDrive\WiproTraining\Day5\Project\EmployProject.Bal\EmployProject.Bal\bin\Debug\EmployProject.Bal.dll
+C:\Users\nandi\OneDrive\WiproTraining\Day5\Project\EmployProject.Bal\EmployProject.Bal\bin\Debug\EmployProject.Bal.pdb
+C:\Users\nandi\OneDrive\WiproTraining\Day5\Project\EmployProject.Bal\EmployProject.Bal\bin\Debug\EmployProject.Dao1.dll
+C:\Users\nandi\OneDrive\WiproTraining\Day5\Project\EmployProject.Bal\EmployProject.Bal\bin\Debug\EmployProject.Exceptions.dll
+C:\Users\nandi\OneDrive\WiproTraining\Day5\Project\EmployProject.Bal\EmployProject.Bal\bin\Debug\EmployProject.Models.dll
+C:\Users\nandi\OneDrive\WiproTraining\Day5\Project\EmployProject.Bal\EmployProject.Bal\bin\Debug\EmployProject.Dao1.pdb
+C:\Users\nandi\OneDrive\WiproTraining\Day5\Project\EmployProject.Bal\EmployProject.Bal\bin\Debug\EmployProject.Exceptions.pdb
+C:\Users\nandi\OneDrive\WiproTraining\Day5\Project\EmployProject.Bal\EmployProject.Bal\bin\Debug\EmployProject.Models.pdb
+C:\Users\nandi\OneDrive\WiproTraining\Day5\Project\EmployProject.Bal\EmployProject.Bal\obj\Debug\EmployProject.Bal.csproj.AssemblyReference.cache
+C:\Users\nandi\OneDrive\WiproTraining\Day5\Project\EmployProject.Bal\EmployProject.Bal\obj\Debug\EmployProject.Bal.csproj.CoreCompileInputs.cache
+C:\Users\nandi\OneDrive\WiproTraining\Day5\Project\EmployProject.Bal\EmployProject.Bal\obj\Debug\EmployPr.51110864.Up2Date
+C:\Users\nandi\OneDrive\WiproTraining\Day5\Project\EmployProject.Bal\EmployProject.Bal\obj\Debug\EmployProject.Bal.dll
+C:\Users\nandi\OneDrive\WiproTraining\Day5\Project\EmployProject.Bal\EmployProject.Bal\obj\Debug\EmployProject.Bal.pdb

@@ -1,0 +1,11 @@
+C:\Users\nandi\OneDrive\WiproTraining\Day7\ReflectionExamples\ReflectionExamples\ReflectionExamples\bin\Debug\ReflectionExamples.exe.config
+C:\Users\nandi\OneDrive\WiproTraining\Day7\ReflectionExamples\ReflectionExamples\ReflectionExamples\bin\Debug\ReflectionExamples.exe
+C:\Users\nandi\OneDrive\WiproTraining\Day7\ReflectionExamples\ReflectionExamples\ReflectionExamples\bin\Debug\ReflectionExamples.pdb
+C:\Users\nandi\OneDrive\WiproTraining\Day7\ReflectionExamples\ReflectionExamples\ReflectionExamples\obj\Debug\ReflectionExamples.csproj.AssemblyReference.cache
+C:\Users\nandi\OneDrive\WiproTraining\Day7\ReflectionExamples\ReflectionExamples\ReflectionExamples\obj\Debug\ReflectionExamples.csproj.CoreCompileInputs.cache
+C:\Users\nandi\OneDrive\WiproTraining\Day7\ReflectionExamples\ReflectionExamples\ReflectionExamples\obj\Debug\ReflectionExamples.exe
+C:\Users\nandi\OneDrive\WiproTraining\Day7\ReflectionExamples\ReflectionExamples\ReflectionExamples\obj\Debug\ReflectionExamples.pdb
+C:\Users\nandi\OneDrive\WiproTraining\Day7\ReflectionExamples\ReflectionExamples\ReflectionExamples\obj\Debug\ReflectionExamples.exe.config
+C:\Users\nandi\OneDrive\WiproTraining\Day7\ReflectionExamples\ReflectionExamples\ReflectionExamples\bin\Debug\ClsReflectionExample1.dll
+C:\Users\nandi\OneDrive\WiproTraining\Day7\ReflectionExamples\ReflectionExamples\ReflectionExamples\bin\Debug\ClsReflectionExample1.pdb
+C:\Users\nandi\OneDrive\WiproTraining\Day7\ReflectionExamples\ReflectionExamples\ReflectionExamples\obj\Debug\Reflecti.67EC1BD4.Up2Date

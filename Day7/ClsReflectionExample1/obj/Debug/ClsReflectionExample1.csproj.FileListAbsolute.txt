@@ -1,0 +1,6 @@
+C:\Users\nandi\OneDrive\WiproTraining\Day7\ClsReflectionExample1\bin\Debug\ClsReflectionExample1.dll
+C:\Users\nandi\OneDrive\WiproTraining\Day7\ClsReflectionExample1\bin\Debug\ClsReflectionExample1.pdb
+C:\Users\nandi\OneDrive\WiproTraining\Day7\ClsReflectionExample1\obj\Debug\ClsReflectionExample1.csproj.AssemblyReference.cache
+C:\Users\nandi\OneDrive\WiproTraining\Day7\ClsReflectionExample1\obj\Debug\ClsReflectionExample1.csproj.CoreCompileInputs.cache
+C:\Users\nandi\OneDrive\WiproTraining\Day7\ClsReflectionExample1\obj\Debug\ClsReflectionExample1.dll
+C:\Users\nandi\OneDrive\WiproTraining\Day7\ClsReflectionExample1\obj\Debug\ClsReflectionExample1.pdb

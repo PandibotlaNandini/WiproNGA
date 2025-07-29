@@ -1,0 +1,343 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nandi\\OneDrive\\WiproTraining\\Day8\\NUnitDemos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{913F8AAB-99D0-4778-BBD5-07B397C163B8}|..\\MockExample2\\MockExample2.csproj|c:\\users\\nandi\\onedrive\\wiprotraining\\day8\\mockexample2\\idetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{913F8AAB-99D0-4778-BBD5-07B397C163B8}|..\\MockExample2\\MockExample2.csproj|c:\\users\\nandi\\onedrive\\wiprotraining\\day8\\mockexample2\\detailstest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{913F8AAB-99D0-4778-BBD5-07B397C163B8}|..\\MockExample2\\MockExample2.csproj|c:\\users\\nandi\\onedrive\\wiprotraining\\day8\\mockexample2\\details.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{913F8AAB-99D0-4778-BBD5-07B397C163B8}|..\\MockExample2\\MockExample2.csproj|c:\\users\\nandi\\onedrive\\wiprotraining\\day8\\mockexample2\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A825D19-49A4-4449-B932-0A441DA9573B}|..\\MockExample\\MockExample.csproj|c:\\users\\nandi\\onedrive\\wiprotraining\\day8\\mockexample\\iemplodao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A825D19-49A4-4449-B932-0A441DA9573B}|..\\MockExample\\MockExample.csproj|c:\\users\\nandi\\onedrive\\wiprotraining\\day8\\mockexample\\employdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A825D19-49A4-4449-B932-0A441DA9573B}|..\\MockExample\\MockExample.csproj|c:\\users\\nandi\\onedrive\\wiprotraining\\day8\\mockexample\\calculationmock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A825D19-49A4-4449-B932-0A441DA9573B}|..\\MockExample\\MockExample.csproj|c:\\users\\nandi\\onedrive\\wiprotraining\\day8\\mockexample\\calculation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A825D19-49A4-4449-B932-0A441DA9573B}|..\\MockExample\\MockExample.csproj|c:\\users\\nandi\\onedrive\\wiprotraining\\day8\\mockexample\\employdaotest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A825D19-49A4-4449-B932-0A441DA9573B}|..\\MockExample\\MockExample.csproj|c:\\users\\nandi\\onedrive\\wiprotraining\\day8\\mockexample\\employ.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A825D19-49A4-4449-B932-0A441DA9573B}|..\\MockExample\\MockExample.csproj|c:\\users\\nandi\\onedrive\\wiprotraining\\day8\\mockexample\\mocktest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59299C60-D187-4865-A419-E7E02D30A85E}|NUnitDemos\\NUnitDemos.csproj|C:\\Users\\nandi\\OneDrive\\WiproTraining\\Day8\\NUnitDemos\\nunitdemos\\employ.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59299C60-D187-4865-A419-E7E02D30A85E}|NUnitDemos\\NUnitDemos.csproj|solutionrelative:nunitdemos\\employ.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59299C60-D187-4865-A419-E7E02D30A85E}|NUnitDemos\\NUnitDemos.csproj|C:\\Users\\nandi\\OneDrive\\WiproTraining\\Day8\\NUnitDemos\\nunitdemos\\employdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59299C60-D187-4865-A419-E7E02D30A85E}|NUnitDemos\\NUnitDemos.csproj|solutionrelative:nunitdemos\\employdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CAFA415-D78E-42B8-9FA5-D8289CE5BA9F}|..\\NUnitDemos.Tests\\NUnitDemos.Tests.csproj|c:\\users\\nandi\\onedrive\\wiprotraining\\day8\\nunitdemos.tests\\employtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A825D19-49A4-4449-B932-0A441DA9573B}|..\\MockExample\\MockExample.csproj|c:\\users\\nandi\\onedrive\\wiprotraining\\day8\\mockexample\\iwiprodata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A825D19-49A4-4449-B932-0A441DA9573B}|..\\MockExample\\MockExample.csproj|c:\\users\\nandi\\onedrive\\wiprotraining\\day8\\mockexample\\wiprodata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A825D19-49A4-4449-B932-0A441DA9573B}|..\\MockExample\\MockExample.csproj|c:\\users\\nandi\\onedrive\\wiprotraining\\day8\\mockexample\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CAFA415-D78E-42B8-9FA5-D8289CE5BA9F}|..\\NUnitDemos.Tests\\NUnitDemos.Tests.csproj|c:\\users\\nandi\\onedrive\\wiprotraining\\day8\\nunitdemos.tests\\demotest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59299C60-D187-4865-A419-E7E02D30A85E}|NUnitDemos\\NUnitDemos.csproj|C:\\Users\\nandi\\OneDrive\\WiproTraining\\Day8\\NUnitDemos\\nunitdemos\\demo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59299C60-D187-4865-A419-E7E02D30A85E}|NUnitDemos\\NUnitDemos.csproj|solutionrelative:nunitdemos\\demo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CAFA415-D78E-42B8-9FA5-D8289CE5BA9F}|..\\NUnitDemos.Tests\\NUnitDemos.Tests.csproj|c:\\users\\nandi\\onedrive\\wiprotraining\\day8\\nunitdemos.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DetailsTest.cs",
+              "DocumentMoniker": "C:\\Users\\nandi\\OneDrive\\WiproTraining\\Day8\\MockExample2\\DetailsTest.cs",
+              "RelativeDocumentMoniker": "..\\MockExample2\\DetailsTest.cs",
+              "ToolTip": "C:\\Users\\nandi\\OneDrive\\WiproTraining\\Day8\\MockExample2\\DetailsTest.cs",
+              "RelativeToolTip": "..\\MockExample2\\DetailsTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T12:56:34.159Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Details.cs",
+              "DocumentMoniker": "C:\\Users\\nandi\\OneDrive\\WiproTraining\\Day8\\MockExample2\\Details.cs",
+              "RelativeDocumentMoniker": "..\\MockExample2\\Details.cs",
+              "ToolTip": "C:\\Users\\nandi\\OneDrive\\WiproTraining\\Day8\\MockExample2\\Details.cs",
+              "RelativeToolTip": "..\\MockExample2\\Details.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T12:55:47.149Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IDetails.cs",
+              "DocumentMoniker": "C:\\Users\\nandi\\OneDrive\\WiproTraining\\Day8\\MockExample2\\IDetails.cs",
+              "RelativeDocumentMoniker": "..\\MockExample2\\IDetails.cs",
+              "ToolTip": "C:\\Users\\nandi\\OneDrive\\WiproTraining\\Day8\\MockExample2\\IDetails.cs*",
+              "RelativeToolTip": "..\\MockExample2\\IDetails.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T12:53:49.898Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\nandi\\OneDrive\\WiproTraining\\Day8\\MockExample2\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "..\\MockExample2\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\nandi\\OneDrive\\WiproTraining\\Day8\\MockExample2\\UnitTest1.cs",
+              "RelativeToolTip": "..\\MockExample2\\UnitTest1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T12:53:11.384Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CalculationMock.cs",
+              "DocumentMoniker": "C:\\Users\\nandi\\OneDrive\\WiproTraining\\Day8\\MockExample\\CalculationMock.cs",
+              "RelativeDocumentMoniker": "..\\MockExample\\CalculationMock.cs",
+              "ToolTip": "C:\\Users\\nandi\\OneDrive\\WiproTraining\\Day8\\MockExample\\CalculationMock.cs",
+              "RelativeToolTip": "..\\MockExample\\CalculationMock.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T12:47:51.161Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Calculation.cs",
+              "DocumentMoniker": "C:\\Users\\nandi\\OneDrive\\WiproTraining\\Day8\\MockExample\\Calculation.cs",
+              "RelativeDocumentMoniker": "..\\MockExample\\Calculation.cs",
+              "ToolTip": "C:\\Users\\nandi\\OneDrive\\WiproTraining\\Day8\\MockExample\\Calculation.cs",
+              "RelativeToolTip": "..\\MockExample\\Calculation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T12:46:51.344Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IEmploDAO.cs",
+              "DocumentMoniker": "C:\\Users\\nandi\\OneDrive\\WiproTraining\\Day8\\MockExample\\IEmploDAO.cs",
+              "RelativeDocumentMoniker": "..\\MockExample\\IEmploDAO.cs",
+              "ToolTip": "C:\\Users\\nandi\\OneDrive\\WiproTraining\\Day8\\MockExample\\IEmploDAO.cs",
+              "RelativeToolTip": "..\\MockExample\\IEmploDAO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T12:43:55.431Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EmployDAO.cs",
+              "DocumentMoniker": "C:\\Users\\nandi\\OneDrive\\WiproTraining\\Day8\\MockExample\\EmployDAO.cs",
+              "RelativeDocumentMoniker": "..\\MockExample\\EmployDAO.cs",
+              "ToolTip": "C:\\Users\\nandi\\OneDrive\\WiproTraining\\Day8\\MockExample\\EmployDAO.cs",
+              "RelativeToolTip": "..\\MockExample\\EmployDAO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T12:42:48.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Employ.cs",
+              "DocumentMoniker": "C:\\Users\\nandi\\OneDrive\\WiproTraining\\Day8\\MockExample\\Employ.cs",
+              "RelativeDocumentMoniker": "..\\MockExample\\Employ.cs",
+              "ToolTip": "C:\\Users\\nandi\\OneDrive\\WiproTraining\\Day8\\MockExample\\Employ.cs",
+              "RelativeToolTip": "..\\MockExample\\Employ.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T12:41:41.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EmployDaoTest.cs",
+              "DocumentMoniker": "C:\\Users\\nandi\\OneDrive\\WiproTraining\\Day8\\MockExample\\EmployDaoTest.cs",
+              "RelativeDocumentMoniker": "..\\MockExample\\EmployDaoTest.cs",
+              "ToolTip": "C:\\Users\\nandi\\OneDrive\\WiproTraining\\Day8\\MockExample\\EmployDaoTest.cs",
+              "RelativeToolTip": "..\\MockExample\\EmployDaoTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T12:29:55.268Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MockTest.cs",
+              "DocumentMoniker": "C:\\Users\\nandi\\OneDrive\\WiproTraining\\Day8\\MockExample\\MockTest.cs",
+              "RelativeDocumentMoniker": "..\\MockExample\\MockTest.cs",
+              "ToolTip": "C:\\Users\\nandi\\OneDrive\\WiproTraining\\Day8\\MockExample\\MockTest.cs",
+              "RelativeToolTip": "..\\MockExample\\MockTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T12:25:34.712Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IWiproData.cs",
+              "DocumentMoniker": "C:\\Users\\nandi\\OneDrive\\WiproTraining\\Day8\\MockExample\\IWiproData.cs",
+              "RelativeDocumentMoniker": "..\\MockExample\\IWiproData.cs",
+              "ToolTip": "C:\\Users\\nandi\\OneDrive\\WiproTraining\\Day8\\MockExample\\IWiproData.cs",
+              "RelativeToolTip": "..\\MockExample\\IWiproData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T12:22:35.891Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "EmployTest.cs",
+              "DocumentMoniker": "C:\\Users\\nandi\\OneDrive\\WiproTraining\\Day8\\NUnitDemos.Tests\\EmployTest.cs",
+              "RelativeDocumentMoniker": "..\\NUnitDemos.Tests\\EmployTest.cs",
+              "ToolTip": "C:\\Users\\nandi\\OneDrive\\WiproTraining\\Day8\\NUnitDemos.Tests\\EmployTest.cs",
+              "RelativeToolTip": "..\\NUnitDemos.Tests\\EmployTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T09:37:37.888Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "WiproData.cs",
+              "DocumentMoniker": "C:\\Users\\nandi\\OneDrive\\WiproTraining\\Day8\\MockExample\\WiproData.cs",
+              "RelativeDocumentMoniker": "..\\MockExample\\WiproData.cs",
+              "ToolTip": "C:\\Users\\nandi\\OneDrive\\WiproTraining\\Day8\\MockExample\\WiproData.cs",
+              "RelativeToolTip": "..\\MockExample\\WiproData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwAgAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T12:18:34.663Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\nandi\\OneDrive\\WiproTraining\\Day8\\MockExample\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "..\\MockExample\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\nandi\\OneDrive\\WiproTraining\\Day8\\MockExample\\UnitTest1.cs",
+              "RelativeToolTip": "..\\MockExample\\UnitTest1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T12:17:58.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "EmployDao.cs",
+              "DocumentMoniker": "C:\\Users\\nandi\\OneDrive\\WiproTraining\\Day8\\NUnitDemos\\NUnitDemos\\EmployDao.cs",
+              "RelativeDocumentMoniker": "NUnitDemos\\EmployDao.cs",
+              "ToolTip": "C:\\Users\\nandi\\OneDrive\\WiproTraining\\Day8\\NUnitDemos\\NUnitDemos\\EmployDao.cs",
+              "RelativeToolTip": "NUnitDemos\\EmployDao.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T09:35:17.284Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Employ.cs",
+              "DocumentMoniker": "C:\\Users\\nandi\\OneDrive\\WiproTraining\\Day8\\NUnitDemos\\NUnitDemos\\Employ.cs",
+              "RelativeDocumentMoniker": "NUnitDemos\\Employ.cs",
+              "ToolTip": "C:\\Users\\nandi\\OneDrive\\WiproTraining\\Day8\\NUnitDemos\\NUnitDemos\\Employ.cs",
+              "RelativeToolTip": "NUnitDemos\\Employ.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T09:34:19.225Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "DemoTest.cs",
+              "DocumentMoniker": "C:\\Users\\nandi\\OneDrive\\WiproTraining\\Day8\\NUnitDemos.Tests\\DemoTest.cs",
+              "RelativeDocumentMoniker": "..\\NUnitDemos.Tests\\DemoTest.cs",
+              "ToolTip": "C:\\Users\\nandi\\OneDrive\\WiproTraining\\Day8\\NUnitDemos.Tests\\DemoTest.cs",
+              "RelativeToolTip": "..\\NUnitDemos.Tests\\DemoTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T09:30:48.836Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\nandi\\OneDrive\\WiproTraining\\Day8\\NUnitDemos.Tests\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "..\\NUnitDemos.Tests\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\nandi\\OneDrive\\WiproTraining\\Day8\\NUnitDemos.Tests\\UnitTest1.cs",
+              "RelativeToolTip": "..\\NUnitDemos.Tests\\UnitTest1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T09:29:24.374Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Demo.cs",
+              "DocumentMoniker": "C:\\Users\\nandi\\OneDrive\\WiproTraining\\Day8\\NUnitDemos\\NUnitDemos\\Demo.cs",
+              "RelativeDocumentMoniker": "NUnitDemos\\Demo.cs",
+              "ToolTip": "C:\\Users\\nandi\\OneDrive\\WiproTraining\\Day8\\NUnitDemos\\NUnitDemos\\Demo.cs",
+              "RelativeToolTip": "NUnitDemos\\Demo.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwCYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T09:25:41.521Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

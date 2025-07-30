@@ -1,0 +1,19 @@
+﻿@page
+@model DemoWipro1.Pages.EmployeeShowModelModel
+<h3>Employ data</h3>
+<table border="3">
+    <tr>
+        <th>Empno</th>
+        <th>Name</th>
+        <th>Basic</th>
+    </tr>
+    @foreach(var emp in Model.)
+    {
+        <tr>
+            <td>@emp.Empno</td>
+            <td>@emp.Name</td>
+            <td>@emp.Basic</td>
+        </tr>
+        
+    }
+</table>

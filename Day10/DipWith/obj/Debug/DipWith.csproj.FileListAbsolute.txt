@@ -1,0 +1,7 @@
+C:\Users\nandi\OneDrive\WiproTraining\Day9\DipWith\bin\Debug\DipWith.exe.config
+C:\Users\nandi\OneDrive\WiproTraining\Day9\DipWith\bin\Debug\DipWith.exe
+C:\Users\nandi\OneDrive\WiproTraining\Day9\DipWith\bin\Debug\DipWith.pdb
+C:\Users\nandi\OneDrive\WiproTraining\Day9\DipWith\obj\Debug\DipWith.csproj.AssemblyReference.cache
+C:\Users\nandi\OneDrive\WiproTraining\Day9\DipWith\obj\Debug\DipWith.csproj.CoreCompileInputs.cache
+C:\Users\nandi\OneDrive\WiproTraining\Day9\DipWith\obj\Debug\DipWith.exe
+C:\Users\nandi\OneDrive\WiproTraining\Day9\DipWith\obj\Debug\DipWith.pdb

@@ -1,0 +1,7 @@
+C:\Users\nandi\OneDrive\WiproTraining\Day9\OcpWith\bin\Debug\OcpWith.exe.config
+C:\Users\nandi\OneDrive\WiproTraining\Day9\OcpWith\bin\Debug\OcpWith.exe
+C:\Users\nandi\OneDrive\WiproTraining\Day9\OcpWith\bin\Debug\OcpWith.pdb
+C:\Users\nandi\OneDrive\WiproTraining\Day9\OcpWith\obj\Debug\OcpWith.csproj.AssemblyReference.cache
+C:\Users\nandi\OneDrive\WiproTraining\Day9\OcpWith\obj\Debug\OcpWith.csproj.CoreCompileInputs.cache
+C:\Users\nandi\OneDrive\WiproTraining\Day9\OcpWith\obj\Debug\OcpWith.exe
+C:\Users\nandi\OneDrive\WiproTraining\Day9\OcpWith\obj\Debug\OcpWith.pdb

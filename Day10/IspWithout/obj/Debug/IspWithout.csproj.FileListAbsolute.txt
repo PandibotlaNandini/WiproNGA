@@ -1,0 +1,7 @@
+C:\Users\nandi\OneDrive\WiproTraining\Day9\IspWithout\bin\Debug\IspWithout.exe.config
+C:\Users\nandi\OneDrive\WiproTraining\Day9\IspWithout\bin\Debug\IspWithout.exe
+C:\Users\nandi\OneDrive\WiproTraining\Day9\IspWithout\bin\Debug\IspWithout.pdb
+C:\Users\nandi\OneDrive\WiproTraining\Day9\IspWithout\obj\Debug\IspWithout.csproj.AssemblyReference.cache
+C:\Users\nandi\OneDrive\WiproTraining\Day9\IspWithout\obj\Debug\IspWithout.csproj.CoreCompileInputs.cache
+C:\Users\nandi\OneDrive\WiproTraining\Day9\IspWithout\obj\Debug\IspWithout.exe
+C:\Users\nandi\OneDrive\WiproTraining\Day9\IspWithout\obj\Debug\IspWithout.pdb

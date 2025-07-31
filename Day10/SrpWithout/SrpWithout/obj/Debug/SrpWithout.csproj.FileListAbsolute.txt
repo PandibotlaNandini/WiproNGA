@@ -1,0 +1,7 @@
+C:\Users\nandi\OneDrive\WiproTraining\Day9\SrpWithout\SrpWithout\bin\Debug\SrpWithout.exe.config
+C:\Users\nandi\OneDrive\WiproTraining\Day9\SrpWithout\SrpWithout\bin\Debug\SrpWithout.exe
+C:\Users\nandi\OneDrive\WiproTraining\Day9\SrpWithout\SrpWithout\bin\Debug\SrpWithout.pdb
+C:\Users\nandi\OneDrive\WiproTraining\Day9\SrpWithout\SrpWithout\obj\Debug\SrpWithout.csproj.AssemblyReference.cache
+C:\Users\nandi\OneDrive\WiproTraining\Day9\SrpWithout\SrpWithout\obj\Debug\SrpWithout.csproj.CoreCompileInputs.cache
+C:\Users\nandi\OneDrive\WiproTraining\Day9\SrpWithout\SrpWithout\obj\Debug\SrpWithout.exe
+C:\Users\nandi\OneDrive\WiproTraining\Day9\SrpWithout\SrpWithout\obj\Debug\SrpWithout.pdb

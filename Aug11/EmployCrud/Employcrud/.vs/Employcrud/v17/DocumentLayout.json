@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nandi\\OneDrive\\WiproTraining\\EmployCrud\\Employcrud\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6248A7B4-303C-4892-8383-61A229077120}|Employcrud\\Employcrud.csproj|c:\\users\\nandi\\onedrive\\wiprotraining\\employcrud\\employcrud\\employcrud\\controllers\\employscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6248A7B4-303C-4892-8383-61A229077120}|Employcrud\\Employcrud.csproj|solutionrelative:employcrud\\controllers\\employscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6248A7B4-303C-4892-8383-61A229077120}|Employcrud\\Employcrud.csproj|c:\\users\\nandi\\onedrive\\wiprotraining\\employcrud\\employcrud\\employcrud\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6248A7B4-303C-4892-8383-61A229077120}|Employcrud\\Employcrud.csproj|solutionrelative:employcrud\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6248A7B4-303C-4892-8383-61A229077120}|Employcrud\\Employcrud.csproj|c:\\users\\nandi\\onedrive\\wiprotraining\\employcrud\\employcrud\\employcrud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6248A7B4-303C-4892-8383-61A229077120}|Employcrud\\Employcrud.csproj|solutionrelative:employcrud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6248A7B4-303C-4892-8383-61A229077120}|Employcrud\\Employcrud.csproj|c:\\users\\nandi\\onedrive\\wiprotraining\\employcrud\\employcrud\\employcrud\\models\\efcoredbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6248A7B4-303C-4892-8383-61A229077120}|Employcrud\\Employcrud.csproj|solutionrelative:employcrud\\models\\efcoredbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6248A7B4-303C-4892-8383-61A229077120}|Employcrud\\Employcrud.csproj|c:\\users\\nandi\\onedrive\\wiprotraining\\employcrud\\employcrud\\employcrud\\models\\employ.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6248A7B4-303C-4892-8383-61A229077120}|Employcrud\\Employcrud.csproj|solutionrelative:employcrud\\models\\employ.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmploysController.cs",
+              "DocumentMoniker": "C:\\Users\\nandi\\OneDrive\\WiproTraining\\EmployCrud\\Employcrud\\Employcrud\\Controllers\\EmploysController.cs",
+              "RelativeDocumentMoniker": "Employcrud\\Controllers\\EmploysController.cs",
+              "ToolTip": "C:\\Users\\nandi\\OneDrive\\WiproTraining\\EmployCrud\\Employcrud\\Employcrud\\Controllers\\EmploysController.cs",
+              "RelativeToolTip": "Employcrud\\Controllers\\EmploysController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T11:16:50.975Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nandi\\OneDrive\\WiproTraining\\EmployCrud\\Employcrud\\Employcrud\\Program.cs",
+              "RelativeDocumentMoniker": "Employcrud\\Program.cs",
+              "ToolTip": "C:\\Users\\nandi\\OneDrive\\WiproTraining\\EmployCrud\\Employcrud\\Employcrud\\Program.cs",
+              "RelativeToolTip": "Employcrud\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T11:12:53.586Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\nandi\\OneDrive\\WiproTraining\\EmployCrud\\Employcrud\\Employcrud\\appsettings.json",
+              "RelativeDocumentMoniker": "Employcrud\\appsettings.json",
+              "ToolTip": "C:\\Users\\nandi\\OneDrive\\WiproTraining\\EmployCrud\\Employcrud\\Employcrud\\appsettings.json",
+              "RelativeToolTip": "Employcrud\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-11T11:05:31.895Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EFCoreDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\nandi\\OneDrive\\WiproTraining\\EmployCrud\\Employcrud\\Employcrud\\Models\\EFCoreDbContext.cs",
+              "RelativeDocumentMoniker": "Employcrud\\Models\\EFCoreDbContext.cs",
+              "ToolTip": "C:\\Users\\nandi\\OneDrive\\WiproTraining\\EmployCrud\\Employcrud\\Employcrud\\Models\\EFCoreDbContext.cs",
+              "RelativeToolTip": "Employcrud\\Models\\EFCoreDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T11:03:50.54Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Employ.cs",
+              "DocumentMoniker": "C:\\Users\\nandi\\OneDrive\\WiproTraining\\EmployCrud\\Employcrud\\Employcrud\\Models\\Employ.cs",
+              "RelativeDocumentMoniker": "Employcrud\\Models\\Employ.cs",
+              "ToolTip": "C:\\Users\\nandi\\OneDrive\\WiproTraining\\EmployCrud\\Employcrud\\Employcrud\\Models\\Employ.cs",
+              "RelativeToolTip": "Employcrud\\Models\\Employ.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T11:02:35.532Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

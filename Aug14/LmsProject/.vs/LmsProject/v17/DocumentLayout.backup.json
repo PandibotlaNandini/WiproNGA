@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nandi\\OneDrive\\WiproTraining\\Aug14\\LmsProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6745D271-9A04-44D3-9C38-58290F307668}|LmsProject\\LmsProject.csproj|c:\\users\\nandi\\onedrive\\wiprotraining\\aug14\\lmsproject\\lmsproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6745D271-9A04-44D3-9C38-58290F307668}|LmsProject\\LmsProject.csproj|solutionrelative:lmsproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6745D271-9A04-44D3-9C38-58290F307668}|LmsProject\\LmsProject.csproj|c:\\users\\nandi\\onedrive\\wiprotraining\\aug14\\lmsproject\\lmsproject\\controllers\\leavehistoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6745D271-9A04-44D3-9C38-58290F307668}|LmsProject\\LmsProject.csproj|solutionrelative:lmsproject\\controllers\\leavehistoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6745D271-9A04-44D3-9C38-58290F307668}|LmsProject\\LmsProject.csproj|c:\\users\\nandi\\onedrive\\wiprotraining\\aug14\\lmsproject\\lmsproject\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6745D271-9A04-44D3-9C38-58290F307668}|LmsProject\\LmsProject.csproj|solutionrelative:lmsproject\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6745D271-9A04-44D3-9C38-58290F307668}|LmsProject\\LmsProject.csproj|c:\\users\\nandi\\onedrive\\wiprotraining\\aug14\\lmsproject\\lmsproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6745D271-9A04-44D3-9C38-58290F307668}|LmsProject\\LmsProject.csproj|solutionrelative:lmsproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6745D271-9A04-44D3-9C38-58290F307668}|LmsProject\\LmsProject.csproj|c:\\users\\nandi\\onedrive\\wiprotraining\\aug14\\lmsproject\\lmsproject\\models\\lmsdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6745D271-9A04-44D3-9C38-58290F307668}|LmsProject\\LmsProject.csproj|solutionrelative:lmsproject\\models\\lmsdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6745D271-9A04-44D3-9C38-58290F307668}|LmsProject\\LmsProject.csproj|c:\\users\\nandi\\onedrive\\wiprotraining\\aug14\\lmsproject\\lmsproject\\models\\leavehistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6745D271-9A04-44D3-9C38-58290F307668}|LmsProject\\LmsProject.csproj|solutionrelative:lmsproject\\models\\leavehistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6745D271-9A04-44D3-9C38-58290F307668}|LmsProject\\LmsProject.csproj|c:\\users\\nandi\\onedrive\\wiprotraining\\aug14\\lmsproject\\lmsproject\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6745D271-9A04-44D3-9C38-58290F307668}|LmsProject\\LmsProject.csproj|solutionrelative:lmsproject\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LeaveHistoriesController.cs",
+              "DocumentMoniker": "C:\\Users\\nandi\\OneDrive\\WiproTraining\\Aug14\\LmsProject\\LmsProject\\Controllers\\LeaveHistoriesController.cs",
+              "RelativeDocumentMoniker": "LmsProject\\Controllers\\LeaveHistoriesController.cs",
+              "ToolTip": "C:\\Users\\nandi\\OneDrive\\WiproTraining\\Aug14\\LmsProject\\LmsProject\\Controllers\\LeaveHistoriesController.cs",
+              "RelativeToolTip": "LmsProject\\Controllers\\LeaveHistoriesController.cs",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T10:35:31.131Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmployeesController.cs",
+              "DocumentMoniker": "C:\\Users\\nandi\\OneDrive\\WiproTraining\\Aug14\\LmsProject\\LmsProject\\Controllers\\EmployeesController.cs",
+              "RelativeDocumentMoniker": "LmsProject\\Controllers\\EmployeesController.cs",
+              "ToolTip": "C:\\Users\\nandi\\OneDrive\\WiproTraining\\Aug14\\LmsProject\\LmsProject\\Controllers\\EmployeesController.cs",
+              "RelativeToolTip": "LmsProject\\Controllers\\EmployeesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T10:33:47.777Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nandi\\OneDrive\\WiproTraining\\Aug14\\LmsProject\\LmsProject\\Program.cs",
+              "RelativeDocumentMoniker": "LmsProject\\Program.cs",
+              "ToolTip": "C:\\Users\\nandi\\OneDrive\\WiproTraining\\Aug14\\LmsProject\\LmsProject\\Program.cs",
+              "RelativeToolTip": "LmsProject\\Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAIwDEAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T10:31:45.198Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\nandi\\OneDrive\\WiproTraining\\Aug14\\LmsProject\\LmsProject\\appsettings.json",
+              "RelativeDocumentMoniker": "LmsProject\\appsettings.json",
+              "ToolTip": "C:\\Users\\nandi\\OneDrive\\WiproTraining\\Aug14\\LmsProject\\LmsProject\\appsettings.json*",
+              "RelativeToolTip": "LmsProject\\appsettings.json*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-14T10:30:43.013Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LmsDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\nandi\\OneDrive\\WiproTraining\\Aug14\\LmsProject\\LmsProject\\Models\\LmsDbContext.cs",
+              "RelativeDocumentMoniker": "LmsProject\\Models\\LmsDbContext.cs",
+              "ToolTip": "C:\\Users\\nandi\\OneDrive\\WiproTraining\\Aug14\\LmsProject\\LmsProject\\Models\\LmsDbContext.cs",
+              "RelativeToolTip": "LmsProject\\Models\\LmsDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T10:29:57.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LeaveHistory.cs",
+              "DocumentMoniker": "C:\\Users\\nandi\\OneDrive\\WiproTraining\\Aug14\\LmsProject\\LmsProject\\Models\\LeaveHistory.cs",
+              "RelativeDocumentMoniker": "LmsProject\\Models\\LeaveHistory.cs",
+              "ToolTip": "C:\\Users\\nandi\\OneDrive\\WiproTraining\\Aug14\\LmsProject\\LmsProject\\Models\\LeaveHistory.cs",
+              "RelativeToolTip": "LmsProject\\Models\\LeaveHistory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T10:29:13.825Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\nandi\\OneDrive\\WiproTraining\\Aug14\\LmsProject\\LmsProject\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "LmsProject\\Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\nandi\\OneDrive\\WiproTraining\\Aug14\\LmsProject\\LmsProject\\Models\\Employee.cs",
+              "RelativeToolTip": "LmsProject\\Models\\Employee.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwBsAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T10:28:20.415Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

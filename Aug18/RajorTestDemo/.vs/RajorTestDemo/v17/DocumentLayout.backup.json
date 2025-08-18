@@ -1,0 +1,258 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nandi\\OneDrive\\WiproTraining\\Aug18\\RajorTestDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B0D79C7D-C9B1-4822-BAA4-91ADB98F9340}|RajorTestDemo\\RajorTestDemo.csproj|c:\\users\\nandi\\onedrive\\wiprotraining\\aug18\\rajortestdemo\\rajortestdemo\\pages\\employ\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B0D79C7D-C9B1-4822-BAA4-91ADB98F9340}|RajorTestDemo\\RajorTestDemo.csproj|solutionrelative:rajortestdemo\\pages\\employ\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0D79C7D-C9B1-4822-BAA4-91ADB98F9340}|RajorTestDemo\\RajorTestDemo.csproj|c:\\users\\nandi\\onedrive\\wiprotraining\\aug18\\rajortestdemo\\rajortestdemo\\pages\\employ\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0D79C7D-C9B1-4822-BAA4-91ADB98F9340}|RajorTestDemo\\RajorTestDemo.csproj|solutionrelative:rajortestdemo\\pages\\employ\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0D79C7D-C9B1-4822-BAA4-91ADB98F9340}|RajorTestDemo\\RajorTestDemo.csproj|c:\\users\\nandi\\onedrive\\wiprotraining\\aug18\\rajortestdemo\\rajortestdemo\\pages\\employ\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B0D79C7D-C9B1-4822-BAA4-91ADB98F9340}|RajorTestDemo\\RajorTestDemo.csproj|solutionrelative:rajortestdemo\\pages\\employ\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0D79C7D-C9B1-4822-BAA4-91ADB98F9340}|RajorTestDemo\\RajorTestDemo.csproj|c:\\users\\nandi\\onedrive\\wiprotraining\\aug18\\rajortestdemo\\rajortestdemo\\pages\\employ\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0D79C7D-C9B1-4822-BAA4-91ADB98F9340}|RajorTestDemo\\RajorTestDemo.csproj|solutionrelative:rajortestdemo\\pages\\employ\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0D79C7D-C9B1-4822-BAA4-91ADB98F9340}|RajorTestDemo\\RajorTestDemo.csproj|c:\\users\\nandi\\onedrive\\wiprotraining\\aug18\\rajortestdemo\\rajortestdemo\\pages\\employ\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B0D79C7D-C9B1-4822-BAA4-91ADB98F9340}|RajorTestDemo\\RajorTestDemo.csproj|solutionrelative:rajortestdemo\\pages\\employ\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0D79C7D-C9B1-4822-BAA4-91ADB98F9340}|RajorTestDemo\\RajorTestDemo.csproj|c:\\users\\nandi\\onedrive\\wiprotraining\\aug18\\rajortestdemo\\rajortestdemo\\models\\employ.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0D79C7D-C9B1-4822-BAA4-91ADB98F9340}|RajorTestDemo\\RajorTestDemo.csproj|solutionrelative:rajortestdemo\\models\\employ.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0D79C7D-C9B1-4822-BAA4-91ADB98F9340}|RajorTestDemo\\RajorTestDemo.csproj|c:\\users\\nandi\\onedrive\\wiprotraining\\aug18\\rajortestdemo\\rajortestdemo\\pages\\employ\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B0D79C7D-C9B1-4822-BAA4-91ADB98F9340}|RajorTestDemo\\RajorTestDemo.csproj|solutionrelative:rajortestdemo\\pages\\employ\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0D79C7D-C9B1-4822-BAA4-91ADB98F9340}|RajorTestDemo\\RajorTestDemo.csproj|c:\\users\\nandi\\onedrive\\wiprotraining\\aug18\\rajortestdemo\\rajortestdemo\\pages\\employ\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0D79C7D-C9B1-4822-BAA4-91ADB98F9340}|RajorTestDemo\\RajorTestDemo.csproj|solutionrelative:rajortestdemo\\pages\\employ\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0D79C7D-C9B1-4822-BAA4-91ADB98F9340}|RajorTestDemo\\RajorTestDemo.csproj|c:\\users\\nandi\\onedrive\\wiprotraining\\aug18\\rajortestdemo\\rajortestdemo\\pages\\employ\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0D79C7D-C9B1-4822-BAA4-91ADB98F9340}|RajorTestDemo\\RajorTestDemo.csproj|solutionrelative:rajortestdemo\\pages\\employ\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0D79C7D-C9B1-4822-BAA4-91ADB98F9340}|RajorTestDemo\\RajorTestDemo.csproj|c:\\users\\nandi\\onedrive\\wiprotraining\\aug18\\rajortestdemo\\rajortestdemo\\pages\\employ\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B0D79C7D-C9B1-4822-BAA4-91ADB98F9340}|RajorTestDemo\\RajorTestDemo.csproj|solutionrelative:rajortestdemo\\pages\\employ\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0D79C7D-C9B1-4822-BAA4-91ADB98F9340}|RajorTestDemo\\RajorTestDemo.csproj|c:\\users\\nandi\\onedrive\\wiprotraining\\aug18\\rajortestdemo\\rajortestdemo\\models\\efcoredbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0D79C7D-C9B1-4822-BAA4-91ADB98F9340}|RajorTestDemo\\RajorTestDemo.csproj|solutionrelative:rajortestdemo\\models\\efcoredbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0D79C7D-C9B1-4822-BAA4-91ADB98F9340}|RajorTestDemo\\RajorTestDemo.csproj|c:\\users\\nandi\\onedrive\\wiprotraining\\aug18\\rajortestdemo\\rajortestdemo\\pages\\employ\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0D79C7D-C9B1-4822-BAA4-91ADB98F9340}|RajorTestDemo\\RajorTestDemo.csproj|solutionrelative:rajortestdemo\\pages\\employ\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0D79C7D-C9B1-4822-BAA4-91ADB98F9340}|RajorTestDemo\\RajorTestDemo.csproj|c:\\users\\nandi\\onedrive\\wiprotraining\\aug18\\rajortestdemo\\rajortestdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0D79C7D-C9B1-4822-BAA4-91ADB98F9340}|RajorTestDemo\\RajorTestDemo.csproj|solutionrelative:rajortestdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0D79C7D-C9B1-4822-BAA4-91ADB98F9340}|RajorTestDemo\\RajorTestDemo.csproj|c:\\users\\nandi\\onedrive\\wiprotraining\\aug18\\rajortestdemo\\rajortestdemo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B0D79C7D-C9B1-4822-BAA4-91ADB98F9340}|RajorTestDemo\\RajorTestDemo.csproj|solutionrelative:rajortestdemo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Delete.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\nandi\\OneDrive\\WiproTraining\\Aug18\\RajorTestDemo\\RajorTestDemo\\Pages\\Employ\\Delete.cshtml.cs",
+              "RelativeDocumentMoniker": "RajorTestDemo\\Pages\\Employ\\Delete.cshtml.cs",
+              "ToolTip": "C:\\Users\\nandi\\OneDrive\\WiproTraining\\Aug18\\RajorTestDemo\\RajorTestDemo\\Pages\\Employ\\Delete.cshtml.cs",
+              "RelativeToolTip": "RajorTestDemo\\Pages\\Employ\\Delete.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T10:31:31.667Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\nandi\\OneDrive\\WiproTraining\\Aug18\\RajorTestDemo\\RajorTestDemo\\Pages\\Employ\\Delete.cshtml",
+              "RelativeDocumentMoniker": "RajorTestDemo\\Pages\\Employ\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\nandi\\OneDrive\\WiproTraining\\Aug18\\RajorTestDemo\\RajorTestDemo\\Pages\\Employ\\Delete.cshtml*",
+              "RelativeToolTip": "RajorTestDemo\\Pages\\Employ\\Delete.cshtml*",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAABIAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-18T10:31:31.395Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Details.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\nandi\\OneDrive\\WiproTraining\\Aug18\\RajorTestDemo\\RajorTestDemo\\Pages\\Employ\\Details.cshtml.cs",
+              "RelativeDocumentMoniker": "RajorTestDemo\\Pages\\Employ\\Details.cshtml.cs",
+              "ToolTip": "C:\\Users\\nandi\\OneDrive\\WiproTraining\\Aug18\\RajorTestDemo\\RajorTestDemo\\Pages\\Employ\\Details.cshtml.cs",
+              "RelativeToolTip": "RajorTestDemo\\Pages\\Employ\\Details.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T10:25:48.137Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\nandi\\OneDrive\\WiproTraining\\Aug18\\RajorTestDemo\\RajorTestDemo\\Pages\\Employ\\Details.cshtml",
+              "RelativeDocumentMoniker": "RajorTestDemo\\Pages\\Employ\\Details.cshtml",
+              "ToolTip": "C:\\Users\\nandi\\OneDrive\\WiproTraining\\Aug18\\RajorTestDemo\\RajorTestDemo\\Pages\\Employ\\Details.cshtml",
+              "RelativeToolTip": "RajorTestDemo\\Pages\\Employ\\Details.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-18T10:25:47.943Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\nandi\\OneDrive\\WiproTraining\\Aug18\\RajorTestDemo\\RajorTestDemo\\Pages\\Employ\\Edit.cshtml",
+              "RelativeDocumentMoniker": "RajorTestDemo\\Pages\\Employ\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\nandi\\OneDrive\\WiproTraining\\Aug18\\RajorTestDemo\\RajorTestDemo\\Pages\\Employ\\Edit.cshtml",
+              "RelativeToolTip": "RajorTestDemo\\Pages\\Employ\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-18T10:21:46.773Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Employ.cs",
+              "DocumentMoniker": "C:\\Users\\nandi\\OneDrive\\WiproTraining\\Aug18\\RajorTestDemo\\RajorTestDemo\\Models\\Employ.cs",
+              "RelativeDocumentMoniker": "RajorTestDemo\\Models\\Employ.cs",
+              "ToolTip": "C:\\Users\\nandi\\OneDrive\\WiproTraining\\Aug18\\RajorTestDemo\\RajorTestDemo\\Models\\Employ.cs",
+              "RelativeToolTip": "RajorTestDemo\\Models\\Employ.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T09:41:58.547Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\nandi\\OneDrive\\WiproTraining\\Aug18\\RajorTestDemo\\RajorTestDemo\\Pages\\Employ\\Index.cshtml",
+              "RelativeDocumentMoniker": "RajorTestDemo\\Pages\\Employ\\Index.cshtml",
+              "ToolTip": "C:\\Users\\nandi\\OneDrive\\WiproTraining\\Aug18\\RajorTestDemo\\RajorTestDemo\\Pages\\Employ\\Index.cshtml",
+              "RelativeToolTip": "RajorTestDemo\\Pages\\Employ\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-18T10:08:38.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Edit.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\nandi\\OneDrive\\WiproTraining\\Aug18\\RajorTestDemo\\RajorTestDemo\\Pages\\Employ\\Edit.cshtml.cs",
+              "RelativeDocumentMoniker": "RajorTestDemo\\Pages\\Employ\\Edit.cshtml.cs",
+              "ToolTip": "C:\\Users\\nandi\\OneDrive\\WiproTraining\\Aug18\\RajorTestDemo\\RajorTestDemo\\Pages\\Employ\\Edit.cshtml.cs",
+              "RelativeToolTip": "RajorTestDemo\\Pages\\Employ\\Edit.cshtml.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAkwBYAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T10:21:47.036Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\nandi\\OneDrive\\WiproTraining\\Aug18\\RajorTestDemo\\RajorTestDemo\\Pages\\Employ\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "RajorTestDemo\\Pages\\Employ\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\nandi\\OneDrive\\WiproTraining\\Aug18\\RajorTestDemo\\RajorTestDemo\\Pages\\Employ\\Index.cshtml.cs",
+              "RelativeToolTip": "RajorTestDemo\\Pages\\Employ\\Index.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T10:08:38.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "EFCoreDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\nandi\\OneDrive\\WiproTraining\\Aug18\\RajorTestDemo\\RajorTestDemo\\Models\\EFCoreDbContext.cs",
+              "RelativeDocumentMoniker": "RajorTestDemo\\Models\\EFCoreDbContext.cs",
+              "ToolTip": "C:\\Users\\nandi\\OneDrive\\WiproTraining\\Aug18\\RajorTestDemo\\RajorTestDemo\\Models\\EFCoreDbContext.cs",
+              "RelativeToolTip": "RajorTestDemo\\Models\\EFCoreDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T09:43:01.07Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\nandi\\OneDrive\\WiproTraining\\Aug18\\RajorTestDemo\\RajorTestDemo\\Pages\\Employ\\Create.cshtml",
+              "RelativeDocumentMoniker": "RajorTestDemo\\Pages\\Employ\\Create.cshtml",
+              "ToolTip": "C:\\Users\\nandi\\OneDrive\\WiproTraining\\Aug18\\RajorTestDemo\\RajorTestDemo\\Pages\\Employ\\Create.cshtml",
+              "RelativeToolTip": "RajorTestDemo\\Pages\\Employ\\Create.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABMAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-18T10:11:14.63Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Create.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\nandi\\OneDrive\\WiproTraining\\Aug18\\RajorTestDemo\\RajorTestDemo\\Pages\\Employ\\Create.cshtml.cs",
+              "RelativeDocumentMoniker": "RajorTestDemo\\Pages\\Employ\\Create.cshtml.cs",
+              "ToolTip": "C:\\Users\\nandi\\OneDrive\\WiproTraining\\Aug18\\RajorTestDemo\\RajorTestDemo\\Pages\\Employ\\Create.cshtml.cs",
+              "RelativeToolTip": "RajorTestDemo\\Pages\\Employ\\Create.cshtml.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwBsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T10:11:14.749Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nandi\\OneDrive\\WiproTraining\\Aug18\\RajorTestDemo\\RajorTestDemo\\Program.cs",
+              "RelativeDocumentMoniker": "RajorTestDemo\\Program.cs",
+              "ToolTip": "C:\\Users\\nandi\\OneDrive\\WiproTraining\\Aug18\\RajorTestDemo\\RajorTestDemo\\Program.cs",
+              "RelativeToolTip": "RajorTestDemo\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T09:47:24.679Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\nandi\\OneDrive\\WiproTraining\\Aug18\\RajorTestDemo\\RajorTestDemo\\appsettings.json",
+              "RelativeDocumentMoniker": "RajorTestDemo\\appsettings.json",
+              "ToolTip": "C:\\Users\\nandi\\OneDrive\\WiproTraining\\Aug18\\RajorTestDemo\\RajorTestDemo\\appsettings.json",
+              "RelativeToolTip": "RajorTestDemo\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-18T09:46:41.311Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

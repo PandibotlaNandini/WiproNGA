@@ -1,0 +1,6 @@
+@GoogleSecurity_HostAddress = http://localhost:5079
+
+GET {{GoogleSecurity_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nandi\\OneDrive\\WiproTraining\\Aug25\\GmailAuthEx\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2F1F5224-1425-450E-9255-21447FB4798E}|GmailAuthEx\\GmailAuthEx.csproj|c:\\users\\nandi\\onedrive\\wiprotraining\\aug25\\gmailauthex\\gmailauthex\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F1F5224-1425-450E-9255-21447FB4798E}|GmailAuthEx\\GmailAuthEx.csproj|solutionrelative:gmailauthex\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F1F5224-1425-450E-9255-21447FB4798E}|GmailAuthEx\\GmailAuthEx.csproj|c:\\users\\nandi\\onedrive\\wiprotraining\\aug25\\gmailauthex\\gmailauthex\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2F1F5224-1425-450E-9255-21447FB4798E}|GmailAuthEx\\GmailAuthEx.csproj|solutionrelative:gmailauthex\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F1F5224-1425-450E-9255-21447FB4798E}|GmailAuthEx\\GmailAuthEx.csproj|c:\\users\\nandi\\onedrive\\wiprotraining\\aug25\\gmailauthex\\gmailauthex\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F1F5224-1425-450E-9255-21447FB4798E}|GmailAuthEx\\GmailAuthEx.csproj|solutionrelative:gmailauthex\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\nandi\\OneDrive\\WiproTraining\\Aug25\\GmailAuthEx\\GmailAuthEx\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "GmailAuthEx\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\nandi\\OneDrive\\WiproTraining\\Aug25\\GmailAuthEx\\GmailAuthEx\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "GmailAuthEx\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T11:09:01.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\nandi\\OneDrive\\WiproTraining\\Aug25\\GmailAuthEx\\GmailAuthEx\\appsettings.json",
+              "RelativeDocumentMoniker": "GmailAuthEx\\appsettings.json",
+              "ToolTip": "C:\\Users\\nandi\\OneDrive\\WiproTraining\\Aug25\\GmailAuthEx\\GmailAuthEx\\appsettings.json",
+              "RelativeToolTip": "GmailAuthEx\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-25T11:07:09.266Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nandi\\OneDrive\\WiproTraining\\Aug25\\GmailAuthEx\\GmailAuthEx\\Program.cs",
+              "RelativeDocumentMoniker": "GmailAuthEx\\Program.cs",
+              "ToolTip": "C:\\Users\\nandi\\OneDrive\\WiproTraining\\Aug25\\GmailAuthEx\\GmailAuthEx\\Program.cs",
+              "RelativeToolTip": "GmailAuthEx\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADsAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T11:05:23.854Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
